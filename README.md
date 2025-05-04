@@ -1,4 +1,13 @@
-# Angel One RAG Chatbot - Setup and Usage Documentation (Note: Deployed Demo May Show 502 Errors  because free version- See Deployment Section)
+# Angel One RAG Chatbot - Setup and Usage Documentation (Note: Deployed Demo May Show 502 Errors because free version- See Deployment Section)
+
+**IMPORTANT:** The deployed demo runs on Render's free tier, which causes two limitations:
+
+1. **Initial Slow Response:** The first response after inactivity may take up to 60 seconds as the service "wakes up" from sleep mode
+2. **Occasional 502 Errors:** The service may return 502 errors during high memory operations due to free tier limitations
+
+These limitations are due to hosting constraints on the free plan, not issues with the application code. For reliable performance, a paid hosting plan would be required.
+
+---
 
 ## Overview
 
