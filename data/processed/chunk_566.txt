@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_list-of-order-status-on-your-angel-one-trading-account_421269e9.txt
+Title: knowledge-center_trading-account_list-of-order-status-on-your-angel-one-trading-account_421269e9.txt
+Topic: bank account
+
+. only executed, rejected and cancelled. Pending orders are not shown in order history as it has still not reached terminal state Conclusion It is imperative to understand different order statuses on our platform so that you know when your order gets executed and when you need to re-order. Use our Angel One app or web platform to place your order with ease or track your orders on the move. Share Topics Covered Various order statuses on the Angel One platform How to check your order status on our app? Conclusion The evolution of technology has had a massive impact on every industry, and the stock market is no exception. As a trader or investor today, you can conveniently trade or invest in the market from the comfort of your home

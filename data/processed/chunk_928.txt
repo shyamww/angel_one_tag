@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_charges-and-cashbacks_2c77b736.txt
+Title: URL: https://www.angelone.in/support/charges-and-cashbacks
+Topic: account opening
+
+. Please note that DP charges are not applicable on intraday trades or delivery buy transactions . The details are as below. Equity delivery : Rs. 20+GST per sale transaction, split as below. (Male – INR 3.5 (CDSL) + INR 16.5 (Angel One Charge)) (Female – INR 3.25 (CDSL) + INR 16.75 (Angle One Charge)) For example, If you sell 100 shares of TCS on Monday at 10 am and again sell 50 shares later in the day, DP charges will be applicable twice. The total DP charges levied in this case will be Rs. 47.2. Our experts will be happy to assist you Still have any queries? Connect with our support team

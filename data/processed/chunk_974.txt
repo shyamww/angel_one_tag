@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_complaince_7a887979.txt
+Title: URL: https://www.angelone.in/support/complaince
+Topic: account opening
+
+. Surveillance Measure is an initative by the regulatory bodies and exchanges to protect traders and investors by monitoring price and volatility and detecting misleading activities like insider trading, fictitious transactions, and more. SEBI (Securities and Exchange Board of India) along with the stock exchanges have initiated an Additional Surveillance Measure or ASM to safeguard investors’ interests by ensuring there are no market speculations or manipulations like unexpected price movements. The stocks are categorized under ASM for surveillance based on criteria specified by NSE here

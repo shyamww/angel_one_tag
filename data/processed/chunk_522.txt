@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. Baba Saheb Ambedkar Jayanti 8 18-Apr-2025 Friday Good Friday 9 01-May-2025 Thursday Maharashtra Day 10 12-May-2025 Monday Buddha Pournima 11 15-Aug-2025 Friday Independence Day / Parsi New Year 12 27-Aug-2025 Wednesday Shri Ganesh Chaturthi 13 05-Sep-2025 Friday Id-E-Milad 14 02-Oct-2025 Thursday Mahatma Gandhi Jayanti/Dussehra 15 21-Oct-2025 Tuesday Diwali Laxmi Pujan 16 22-Oct-2025 Wednesday Balipratipada 17 05-Nov-2025 Wednesday Prakash Gurpurb Sri Guru Nanak Dev 18 25-Dec-2025 Thursday Christmas Why is my withdrawable balance zero or not matching my trading account balance? You have unsettled balances in your account. It can happen because of the following reasons: For delivery sell transactions: You can withdraw the amount on T+1 day (Next working day)

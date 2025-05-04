@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_fc3b4382.txt
+Title: URL: https://www.angelone.in/knowledge-center/user-manual
+Topic: bank account
+
+! Join our 3 Cr+ happy customers Trusted by over 3Cr+ clients, Angel One is one of India’s leading retail full-service broking houses

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_list-of-order-status-on-your-angel-one-trading-account_421269e9.txt
+Title: knowledge-center_trading-account_list-of-order-status-on-your-angel-one-trading-account_421269e9.txt
+Topic: bank account
+
+. No worries for refund as the money remains in investor's account. We understand that certain investment advisors may be approaching members of the public including our clients, representing that they are our partners, or representing that their investment advice is based on our research. Please note that we have not engaged any third parties to render any investment advisory services on our behalf. We do not share our research reports or our clients’ personal or financial data with any third parties and have not authorized any such person to represent us in any manner. Persons making investments on the basis of such advice may lose all or a part of their investments along with the fee paid to such unscrupulous persons

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_diy-processes_how-to-update-bank-account-details_d9c0954c.txt
+Title: URL: https://www.angelone.in/knowledge-center/diy-processes/how-to-update-bank-account-details
+Topic: bank account
+
+. Which documents are acceptable for modifying the bank account? The following documents are acceptable for modifying the bank account Bank Passbook (Latest 3 months transaction) Bank Statement (Latest 3 months transaction) Cancelled personalized cheque copy Banker’s verification letter having MICR and IFSC code along with Bank account number mentioned on it Is it possible to change a bank account using a third-party account? No, you can only change a bank account using your bank account. Please Wait... Please Wait... Please Wait... Please Wait... Please Wait... Please Wait..

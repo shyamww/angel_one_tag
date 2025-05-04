@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_7350_Copper_SOB (1) (1).txt
+Title: America's_Choice_7350_Copper_SOB (1) (1).txt
+Topic: trading
+
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/pdfs/America's_Choice_7350_Copper_SOB (1) (1).pdf

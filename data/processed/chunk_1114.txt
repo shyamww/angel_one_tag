@@ -1,0 +1,39 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_7350_Copper_SOB (1) (1).txt
+Title: America's_Choice_7350_Copper_SOB (1) (1).txt
+Topic: trading
+
+Diagnostic tests ( ultrasounds and blood work)  
+Specialist visit (anesthesia)  
+ 
+Total Example Cost  $7,580 
+  
+In this example, Peg would pay:  
+Cost Sharing  
+Deductibles  $3,500 
+Copayments  $100 
+Coinsurance  $0 
+What isn’t covered  
+Limits or exclusions  $0 
+The total Peg would pay is  $3,600 
+  
+   
+ 
+   
+ The plan’s  overall deductible   $7,
+350  
+ Specialist  [ cost sharing]  $45 
+ Hospital (facility) [cost sharing]  0% 
+ Other [cost sharing]  0% 
+ This EXAMPLE event includes services like:  
+Primary care physician office visits ( including 
+disease education)  
+Diagnostic tests (blood work)  
+Prescription drugs  
+Durable medical equipment (glucose meter)  
+ 
+Total Example Cost  $1,000 
+  
+In this example, Joe would pay:  
+Cost Sharing  
+Deductibles  $0 
+Copayments  $100

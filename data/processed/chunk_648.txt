@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_diy-processes_how-to-update-bank-account-details_d9c0954c.txt
+Title: URL: https://www.angelone.in/knowledge-center/diy-processes/how-to-update-bank-account-details
+Topic: bank account
+
+. Ensure your Aadhaar card is linked to your mobile number to complete the process. Joint account holder/ HUF account holder/ minor account holder/ NRI/ corporate account holder To update your bank details, you can raise a ticket here (Create Ticket —> Select Account Details under Category —> Select Profile Details under Sub-Category) and attach the filled-in bank modification form with relevant proof. Any of the documents from the below-mentioned list are accepted as valid bank proof – Bank account statement The front page should clearly show the client’s name, account number, IFSC code, and Micr code. Passbook The front page with the client’s name, account number, IFSC code and MICR code should be clearly visible

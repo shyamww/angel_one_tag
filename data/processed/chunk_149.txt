@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_6a46de20.txt
+Title: URL: https://www.angelone.in/support#head-related
+Topic: account opening
+
+Get details on Investments, Orders and SIPs Learn More Portfolio and Corporate Actions Know more to effectively manage your portfolio Learn More Reports and Statements Get details on contract note, holding statement, ledger, P&L Learn More Your Account Get details on online account opening, MPIN, profile details etc Learn More Your Orders Place order, view order status, order rejection, convert position Learn More Want to connect with us

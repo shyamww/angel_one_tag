@@ -1,0 +1,21 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_2500_Gold_SOB (1) (1).txt
+Title: Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/pdfs/America's_Choice_2500_Gold_SOB (1) (1).pdf
+Topic: trading
+
+Childbirth/delivery facility 
+services Facility:  20% of plan allowable, 
+deductible does not apply  Subject to plan allowable  
+If you need help 
+recovering or have 
+other special health 
+needs  Home health care  20% after deductible,  Failure to obtain precertification will result in a 50% benefit 
+reduction ($2,500 maximum). Subject to plan allowable.  
+Rehabilitation services   
+$40 copay /visit Limited to 20 visits per Calendar Year for physical, and 
+occupational therapies each, 20 visits for Speech, 15 visits 
+for Chiropractic.  Subject to plan allowable  
+ 
+Habilitation services  
+  
+$40 copay /visit Limited to 20 visits per Calendar Year, combined with the 
+above therapies.  Subject to plan allowable

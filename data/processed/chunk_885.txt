@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_add-and-withdraw-funds_f5f20784.txt
+Title: URL: https://www.angelone.in/support/add-and-withdraw-funds
+Topic: account opening
+
+. You might be unable to add funds via UPI due to the following reasons: Ensure you follow the correct procedure and check the above points to resolve the issue. You might be unable to add funds via net banking due to the following reasons: Ensure you check these points and follow the correct procedure to add funds via net banking. You can add funds using any of the following options. Please make sure to add funds from your bank account registered with Angel One in all the above options. No, you can add funds only from your bank account registered with Angel One. This is in accordance with SEBI guidelines. You cannot add funds from a bank account that belongs to your spouse, friend, or anyone else

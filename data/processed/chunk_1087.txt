@@ -1,0 +1,16 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_2500_Gold_SOB (1) (1).txt
+Title: Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/pdfs/America's_Choice_2500_Gold_SOB (1) (1).pdf
+Topic: trading
+
+• Long- term care  
+• Non-emergency care when traveling outside the 
+U.S. 
+ • Private -duty nursing  
+• Routine foot care  
+• Weight loss programs  
+ 
+Other Covered Services ( Limitations may apply to these services. This isn’t a complete list. Please see your plan document. ) 
+• Chiropractic Care  • Durable medical equipment   
+ 
+Your Rights to Continue Coverage:  There are agencies that can help if you want to continue your coverage after it ends. The contact information for those 
+agencies is: Department of Labor’s Employee Benefits Security Administration at 1 -866-444-EBSA (3272) or www.dol.gov/ebsa/healthreform .  Other coverage

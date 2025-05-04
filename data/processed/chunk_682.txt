@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_demat-account_how-to-set-up-ddpi-on-angel-one_a6974e23.txt
+Title: URL: https://www.angelone.in/knowledge-center/demat-account/how-to-set-up-ddpi-on-angel-one
+Topic: bank account
+
+URL: https://www.angelone.in/knowledge-center/demat-account/how-to-set-up-ddpi-on-angel-one

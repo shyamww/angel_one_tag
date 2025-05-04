@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_list-of-order-status-on-your-angel-one-trading-account_421269e9.txt
+Title: knowledge-center_trading-account_list-of-order-status-on-your-angel-one-trading-account_421269e9.txt
+Topic: bank account
+
+. Apart from this, AMO orders, which means the orders that are placed when the market is closed, can be seen under the pending orders section. Rejected Angel One has an exhaustive list of validations like insufficient funds, bid/ask price should fall within the circuit limit (a range within which the stock orders can be placed for the day), trading in penny stocks, trading in SME group stocks, etc. to execute the order successfully. If your order doesn’t comply with these validations, then your order will be rejected even before it reaches the exchange. Canceled An order goes into a canceled status because of the below-mentioned reasons: 1. You have initiated the cancellation 2

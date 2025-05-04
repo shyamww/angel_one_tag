@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_d72ff38c.txt
+Title: URL: https://www.angelone.in/support#head-smp
+Topic: account opening
+
+about personal loans Learn More Margin Pledging and Margin Trading Facility Learn how to increase your available margin to trade Learn More Mutual Funds Get details on Investments, Orders and SIPs Learn More Portfolio and Corporate Actions Know more to effectively manage your portfolio Learn More Reports and Statements Get details on contract note, holding statement, ledger, P&L Learn More Your Account Get details on online account opening, MPIN, profile details etc Learn More Your Orders Place order, view order status, order rejection, convert position Learn More Connect with us Still have any queries

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_complaince_7a887979.txt
+Title: URL: https://www.angelone.in/support/complaince
+Topic: account opening
+
+. CONTACT US Partnership Request For any partnership requests please reach us at partners@angelbroking.com Media Queries 022-40003600(Extn: 6925) EMAIL US Market surveillance plays a key role in ensuring safety and integrity of the markets as it the process of prevention and investigation of abusive, manipulative or illegal trading practices in the securities markets. Surveillance Measure is an initative by the regulatory bodies and exchanges to protect traders and investors by monitoring price and volatility and detecting misleading activities like insider trading, fictitious transactions, and more

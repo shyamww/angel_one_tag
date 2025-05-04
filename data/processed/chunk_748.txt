@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. delivery or intraday Quantity traded Average buy price Average sell price Charges Clicking an individual asset will show you the above details along with a section of “Trade Overview” which includes the details of daily transactions made for that asset such as quantity traded and daily profit or loss made. You can click the filter button (3 vertical rods/hamburger menu) in order to filter the list of scrips based on segment and product types. Figure: P&L for an individual stock You can also download a detailed Tax P&L Statement, alongside the regular P&L statement in the Account section. To do so, simply: Click on ‘Profit and Loss’ in the Account page. Click the download icon on the top right. Choose the option to ‘Download Tax P&L Statement’

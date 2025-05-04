@@ -1,0 +1,12 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_5000_HSA_SOB (2).txt
+Title: Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/pdfs/America's_Choice_5000_HSA_SOB (2).pdf
+Topic: trading
+
+• Chiropractic Care  • Durable medical equipment   
+ 
+Your Rights to Continue Coverage:  There are agencies that can help if you want to continue your coverage after it ends. The contact information for those 
+agencies is: Department of Labor’s Employee Benefits Security Administration at 1 -866-444-EBSA (3272) or www.dol.gov/ebsa/healthreform .  Other coverage 
+options may be available to you too, including buying individual insurance coverage through the Health Insurance Marketplace . For more information about the 
+Marketplace, visit www.HealthCare.gov  or call 1 -800-318-2596.   
+ 
+Your Grievance and Appeals Rights:  There are agencies that can help if you have a complaint against your plan for a denial of a claim . This complaint is called a

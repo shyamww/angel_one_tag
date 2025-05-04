@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_heres-how-you-can-activate-a-segment-in-angel-one_13226d9b.txt
+Title: knowledge-center_trading-account_heres-how-you-can-activate-a-segment-in-angel-one_13226d9b.txt
+Topic: bank account
+
+. In this segment, you can trade only in the group of assets and not in the individual security. Futures and Options are the two derivatives available for trading in this segment. In the Futures contract, an investor agrees to buy/sell a particular asset at an agreed-upon rate on a future date. However, in the Options contract, the investor has a right, but is under no obligation to buy/sell the underlying asset at a specific price on a fixed date. With Angel One, you can trade in futures and options in segment. Commodities Indian investors can diversify their portfolio by investing in various commodities like gold, crude oil, copper, cardamom, rubber, and energy in the Commodities market

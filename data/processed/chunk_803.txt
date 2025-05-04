@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. Trade and non-trade charges, profit and loss, statement summaries and various other data are examined so that users can understand the source and destination of every cash flow, taking into account the variation with time and assets involved. SECTION WISE DESCRIPTION You can access and edit your profile by clicking on the profile icon showing your initials on the top right corner. Here you can also see important details such as your Client ID, PAN number and the ID of your DP (Depository Participant). For a more detailed guide on how to modify your profile, click here . This section shows the overall balance available from all the transactions made using that account

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_127afa5f.txt
+Title: URL: https://www.angelone.in/knowledge-center
+Topic: bank account
+
+. There are two types of derivatives – future and options. Apart from being a hedge against price... Know More Commodities Trading Commodity trading is one of the foundations for the global trading system that trades various commodities from the primary economic sector, that acts... Know More Authorised Person A sub-broker is the intermediary between the investor and the stock exchange. The main role of a sub-broker is to assist them and help them gain... Know More Income Tax The tax that is imposed by the government on the earrings of companies and individuals is called income tax. According to the law, the taxpayer... Know More Savings Schemes There are many savings schemes available in India designed to help individuals achieve their financial goals

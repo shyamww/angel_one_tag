@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_hindi_ae8cc9f2.txt
+Title: URL: https://www.angelone.in/support/hindi
+Topic: account opening
+
+URL: https://www.angelone.in/support/hindi

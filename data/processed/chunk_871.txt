@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_add-and-withdraw-funds_f5f20784.txt
+Title: URL: https://www.angelone.in/support/add-and-withdraw-funds
+Topic: account opening
+
+. This is in accordance with SEBI guidelines. You cannot add funds from a bank account that belongs to your spouse, friend, or anyone else. How to add funds to my Angel One account? You can add funds online to your Angel One account by following these steps: Tap on Account at the bottom of your screen. Click on Add Funds . Enter the amount and choose the mode of transfer (Google Pay, PhonePe, other UPI methods, or Net banking). Follow the subsequent steps to authorize your transaction, and the funds will be added to your account. Click here for more details on adding funds. Is it mandatory to add funds via bank account registered with Angel One? Yes, as per regulatory guidelines and compliance norms, it is mandatory to transfer funds through the bank accounts registered with Angel One

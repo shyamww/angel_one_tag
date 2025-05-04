@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. You have the option to download the contract note that helps the user to have an in-depth analysis. The transaction entries are categorised to cite quarterly payouts, showcase fund credits, trades, pledges, charges etc. You can also select a particular trade and get a condensed version of the contract note citing overview of no of traders, segment type, transaction charges, NSV etc. This section gives the links to – There are three points from which you can access this settings page – from the settings icon in the Home page and the Watchlist page or directly from the Account page. You will see the following sections under the settings page: 1. Security Settings – Here you can – a

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_99ca99dd.txt
+Title: URL: https://www.angelone.in/support#head-blog
+Topic: account opening
+
+. We shall Call/SMS you for a period of 12 months. Brokerage will not exceed SEBI prescribed limits Disclaimer Privacy Policy Any Grievances related the aforesaid brokerage scheme will not be entertained on exchange platform.

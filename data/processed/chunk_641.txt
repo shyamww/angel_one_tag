@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_diy-processes_how-to-update-bank-account-details_d9c0954c.txt
+Title: URL: https://www.angelone.in/knowledge-center/diy-processes/how-to-update-bank-account-details
+Topic: bank account
+
+. Any of the documents from the below-mentioned list are accepted as valid bank proof – Bank account statement The front page should clearly show the client’s name, account number, IFSC code, and Micr code. Passbook The front page with the client’s name, account number, IFSC code and MICR code should be clearly visible. Canceled cheque If you are an HUF account holder, Karta’s signature and stamp are required. The bank proof must be in the name of the Karta, and only a HUF bank account can be added. If you are a joint account holder, the form will require the signature of all holders. The bank account and proof must be in the name of the first account holder. Both joint and individual accounts of the first account holder can be added as new bank accounts

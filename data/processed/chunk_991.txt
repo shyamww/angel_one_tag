@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_fixed-deposits_d0668a64.txt
+Title: URL: https://www.angelone.in/support/fixed-deposits
+Topic: account opening
+
+. Can I continue if the mobile number linked to my bank is different from the one registered with the app? No, your details, including your mobile number, must match those verified by our banking partner. A mismatch will result in your application being rejected by the bank. Why are permissions to send SMS and access phone state required? These permissions are needed to verify your mobile number by sending an SMS. Rest assured, these permissions are used solely for verification purposes. Can I link any SIM for FD purchase if I have a dual SIM phone? Yes, you can. However, we recommend using the SIM registered with your bank account for authentication. Can I retry the registration if it was not successful earlier? Yes, you can retry

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_demat-account_how-to-set-up-ddpi-on-angel-one_a6974e23.txt
+Title: URL: https://www.angelone.in/knowledge-center/demat-account/how-to-set-up-ddpi-on-angel-one
+Topic: bank account
+
+Activate DDPI Today to Enjoy Hassle-free Trading on Angel One 4 mins read by Angel One Share Topics Covered What is DDPI? Points to Note Process to Activate DDPI Online Why Should You Use DDPI? How To Set Up DDPI on Angel One Offline? What is DDPI? DDPI (Demat Debit and Pledge Instructions) is a document that allows a stockbroker (like Angel One) to debit the securities from your demat account upon their sale and deliver them to the exchange. This means once the DDPI is submitted, you do not have to enter the CDSL T-PIN and OTP to sell any shares you hold. However, using the DDPI is voluntary, and you can continue selling shares by entering the T-PIN for every transaction. Earlier, a POA (i.e. Power of Attorney) could be used for debiting the shares from the client’s account

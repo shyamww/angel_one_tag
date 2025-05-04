@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. This section shows the overall balance available from all the transactions made using that account. The details shown include the following – Figure: Trading Balance Summary Angel One offers you two digital payment modes to transfer funds via our app/platform: The below table gives detailed information about these two payment modes for you to make an informed decision. Lower limit of ₹50 UPI transactions can be conducted through any digital payment apps such as Google Pay, Paytm, BHIM and PhonePe. Note: As per SEBI regulations, the account from which funds can be added must be registered with the depository participant (Angel One in this case). If you are using net banking for your transactions, then you can use bank accounts from a limited number of banks

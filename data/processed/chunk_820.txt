@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. The process of withdrawing stocks pledged is also the same. Figure : The process of adding stocks pledged – Part 2 MTF or Margin trading facility allows users to trade in assets without paying the full amount that the asset is worth in the market – the user has to pay only a fraction of the amount while the rest is paid by the broker (in this case, Angel One). In order to avail this service, the user must pledge some assets (e.g. stocks). The process is as follows – The Angel One Dash is the most open, easy-to-use trading transactions management tool available to Indian traders today. It is made of the following 3 components – In the fintech industry, trust is the biggest asset

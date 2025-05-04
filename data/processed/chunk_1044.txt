@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_ipo-ofs_1f9d323f.txt
+Title: URL: https://www.angelone.in/support/ipo-ofs
+Topic: account opening
+
+. However, you can avoid application rejection by Applying from only 1 Demat account per PAN Applying at cut-off price Ensuring that the Bank A/c, Demat A/c, and UPI ID are mapped to the same PAN For example: Jack is using Jill’s UPI ID to apply for an IPO with his Demat A/c. In such a case, Jack’s application will be rejected because Jill’s bank A/C used is not linked to the Demat A/c of Jack Jill’s UPI ID used is not linked to Jack’s PAN Banks will simply hold/block your money when you apply for an IPO. So, your funds will be released/unblocked on or before the UPI mandate expiry date. Please reach out to your bank in case funds are not unblocked or released post the mentioned date

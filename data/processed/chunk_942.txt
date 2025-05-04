@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_charts_abb68e57.txt
+Title: URL: https://www.angelone.in/support/charts
+Topic: account opening
+
+. What should I do? Always check system timezone is in sync with your chart timestamp. Also device timezone is synced with IST. What should I do if I am living in other timezones from India and my chart is not updating real time or candles are not forming improperly? If the charts are not working correctly in other timezones , try to come in Indian timezone and check the functioning of charts. Our team is working to give a more flexible and permanent fix for this. Still need help? Create Ticket Want to connect with us? Our experts will be happy to assist you Connect with us Still have any queries? Connect with our support team

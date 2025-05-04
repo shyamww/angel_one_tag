@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. But the amount has not been withdrawn yet, while the stock market has already opened. At this point, say you buy a stock worth ₹200 – so ₹200 is used up while ₹800 remains. Therefore, when the withdrawal happens, only ₹800 will be withdrawn. The remaining ₹200 withdrawal will be executed once the account again has ₹200 or more. You have received partial funds against your withdrawal because of either of the following reasons: For example: Assume you have ₹1000 as a withdrawable balance at the beginning of the day i.e. 9:00 am. And you have placed a funds payout request of ₹1000. After placing the request, you entered into an intraday trade and suffered a loss of Rs. 100 (including Brokerage, Taxes, and other statutory charges), leaving your clear ledger balance to be ₹900

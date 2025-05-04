@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_add-funds-the-digital-way_eae36f16.txt
+Title: URL: https://www.angelone.in/knowledge-center/trading-account/add-funds-the-digital-way
+Topic: bank account
+
+. However, if you are using UPI (including via Google Pay or PhonePe) then you may transact using accounts from any bank (as long as it is registered with your Angel one account). 5. What is the reason for Transaction Failure while adding funds via online methods? The most common reasons for Transaction Failures are: Your bank account not responding/slow response to our transaction processes Transaction timed out because of delay in authentication Incorrect password Insufficient funds available in your bank account Transfer of funds through 3rd party bank accounts UPI transfers are done through non-registered bank accounts, etc. In case you have any more questions, please feel free to visit Angel Assist on our app/platform. Add funds to your trading account now! Please Wait..

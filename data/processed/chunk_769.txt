@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. The balance should be updated by then. Withdraw funds Follow these steps in order to withdraw funds – Go to the ‘Account’ section after logging in Click the ‘Withdraw’ button Check the withdrawable amount. Enter the amount that you want to withdraw from the withdrawable balance amount Click the bank you want the money to be withdrawn to. Click proceed to submit the request Overall, the remainder of the withdrawal process and checking of withdrawal status is quite similar to the process of adding funds, especially with respect to “View Funds Transaction Details”

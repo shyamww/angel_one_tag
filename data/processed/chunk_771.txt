@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. When can funds withdrawal requests be placed? As per the settlement cycle, you can place funds withdrawal requests on the following days. For delivery sell transactions, funds payout requests can be placed on T+2 day. For F&O transactions, funds payout requests can be placed on T+1 day. I have received money through a sell transaction but my withdrawable balance still shows zero money. Why is this so? It takes time for the transaction to be settled. Therefore, until the settlement of the money involved in the sell transaction has happened, the withdrawable balance will not change. Once the settlement has happened you will see the change in your withdrawal balance. Payout cycles In Angel One, funds payout requests are processed three times a day for the convenience of traders

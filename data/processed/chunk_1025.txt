@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_ipo-ofs_1f9d323f.txt
+Title: URL: https://www.angelone.in/support/ipo-ofs
+Topic: account opening
+
+. In case you have received many mandates then you can cross verify with the Application ID mentioned in the mandate details with the Application ID mentioned in the order details from Angel One’s Application OR Make sure your Payments App is updated. OR If it is taking longer than 6 hours then cancel your bid from Angel one’s application and place a new bid. How to approve an IPO mandate request? You have to approve the IPO mandate request in your UPI app. By when can I approve the UPI mandate request? Pending mandates shall expire after 5 PM on the last day. So users should accept the mandate before 5 PM on the last day to participate in the IPO. What are the charges of applying for an IPO? With Angel One, there are no charges to apply for an IPO

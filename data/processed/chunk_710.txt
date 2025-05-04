@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_demat-account_how-to-set-up-ddpi-on-angel-one_a6974e23.txt
+Title: URL: https://www.angelone.in/knowledge-center/demat-account/how-to-set-up-ddpi-on-angel-one
+Topic: bank account
+
+. We do not sell or rent your contact information to third parties. Please note that by submitting the above mentioned details, you are authorizing us to Call/SMS you even though you may be registered under DND. We shall Call/SMS you for a period of 12 months. Brokerage will not exceed SEBI prescribed limits Disclaimer Privacy Policy Any Grievances related the aforesaid brokerage scheme will not be entertained on exchange platform.

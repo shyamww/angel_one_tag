@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_demat-account_track-the-status-of-your-application-on-angel-one-app_2153ea74.txt
+Title: knowledge-center_demat-account_track-the-status-of-your-application-on-angel-one-app_2153ea74.txt
+Topic: account opening
+
+URL: https://www.angelone.in/knowledge-center/demat-account/track-the-status-of-your-application-on-angel-one-app

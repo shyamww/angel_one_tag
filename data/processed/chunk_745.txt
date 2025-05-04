@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. Quantity Price) Charges – Brokerage, ETC, STT, GST, SEBI tax. Figure : List of trades and their charges (left) and break up of charges for an individual trade (right) You can get a full list of possible charges on your trades on this page . Profit & Loss The first thing that you will notice when you open the Profit and Loss (P&L) section are circular gauge indicators that show you the level of profit or loss made on the respective date. Each level of red or green circle represents a particular level of profit or loss (green meaning profit and red meaning loss) – the exact corresponding meaning can be found by clicking on the “Know more” button right below

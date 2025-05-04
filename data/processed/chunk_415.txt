@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_demat-account_track-the-status-of-your-application-on-angel-one-app_2153ea74.txt
+Title: knowledge-center_demat-account_track-the-status-of-your-application-on-angel-one-app_2153ea74.txt
+Topic: account opening
+
+. Activation in Progress – This means that your application has been reviewed successfully and only the activation of your account remains to be done. Ready for trade – This means that you can transfer your money and start trading stocks on the app. You can also activate other segments, i.e. F&O, commodity and currency. Just click on the Profile icon, scroll to the bottom and you will find the option to activate derivatives trading. Know more about Segment activation . Fig. 2: Application under review (left), application rejected, with the reason (middle) and application successful and permission to start trading (right) Once your account is active, we will send you a Whatsapp notification

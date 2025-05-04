@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_add-and-withdraw-funds_f5f20784.txt
+Title: URL: https://www.angelone.in/support/add-and-withdraw-funds
+Topic: account opening
+
+. ही. Add Funds Add Funds Quarterly Settlement/SEBI Payout Withdraw Funds Withdrawable Balance Why is my trading balance not updated even after adding funds successfully? If your trading balance is not updated after a successful fund addition, it could be due to the following reasons: High Volume of Requests : When there is a high volume of fund addition requests, it might take some time to update your balance. Please wait for 15 minutes. Bank Account Issues : Ensure you add funds from the bank account registered with Angel One, and the account should be in your name. If funds are added from an unregistered bank account, the amount might get deducted but will be credited back in 3-4 working days

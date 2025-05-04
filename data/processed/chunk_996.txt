@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_fixed-deposits_d0668a64.txt
+Title: URL: https://www.angelone.in/support/fixed-deposits
+Topic: account opening
+
+. Track the video KYC and FD confirmation status on the ‘My Investments’ tab. What should I do if I can't move to the next step and complete my KYC verification? Retry using the correct details. If it still doesn’t work, try again later. If the issue persists, raise a ticket with our support team for assistance. Why are details related to occupation, income, and family required for FD booking? These details are required by the bank to create your fixed deposit and ensure communication if needed. Why is my money deducted before video KYC? Your money is deducted before video KYC as it is the last step to verify your identity and book your FD. Your money is safe with the bank, and interest starts accumulating from the time of payment

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_demat-account_track-the-status-of-your-application-on-angel-one-app_2153ea74.txt
+Title: knowledge-center_demat-account_track-the-status-of-your-application-on-angel-one-app_2153ea74.txt
+Topic: account opening
+
+. There is a mismatch in the address provided in the application data and the address given in the documents submitted. 6. Bank Details Validation Issue This means that there is an issue in the bank details validation process because – The bank details were submitted via a cheque leaf – hence it is taking time to complete manual validation. In case the details were submitted online, then there was likely an issue of name mismatch between the data in the application and the documents submitted. There could also be other, more specific reasons for application rejection as well, such as – You already have another application submitted using the same Aadhaar, PAN or email ID. Your name is missing on the bank proof submitted

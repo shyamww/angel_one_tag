@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. You can do so online by visiting the profile section of our app. Check the below table to know if your bank is on the list of merged banks. Merged Banks Acquired by Andhra Bank Union Bank of India Corporation Bank Oriental Bank of Commerce Punjab National Bank United Bank of India Allahabad Bank Indian Bank Syndicate Bank Canara Bank Vijaya Bank Bank of Baroda Dena Bank State Bank of Bikaner and Jaipur State Bank of India State Bank of Hyderabad State Bank of Mysore State Bank of Patiala State Bank of Travancore Bharatiya Mahila Bank How can I check the status of my withdrawal request? You can easily check the status and other details of your requests for withdrawals as well as other transactions

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. It is made of the following 3 components – In the fintech industry, trust is the biggest asset. Hence, a transparent system that reveals all profits and charges clearly and efficiently is the bedrock of a successful investment journey. With this in mind, we have made the Trades and Charges section as detailed and transparent as possible. Search You can search for a particular asset to see the charges specifically associated with it. Moreover, with the sort and filter option (3 rods/hamburger button to the right of the search bar), you can check how much charges you are paying for a particular group of assets

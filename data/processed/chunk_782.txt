@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. last 7, 15 or 30 days or 3 or 6 months or even the year till date or the financial year. You can also choose a custom period by clicking “custom” and choosing the dates ( from * date * to * date *) for the period you want to view. If you want, you can also download the statement summary by clicking on the download icon on the top right corner. Stock Pledging In intraday and F&O trades, the buyer does not always have to pay the entire amount – he/she can pay a fraction (or margin) of the asset price to the seller and the rest can be paid off by the stockbroker (in this case, Angel One). Angel One pays off the remaining portion of the transaction value in the form of a loan given out to the buyer

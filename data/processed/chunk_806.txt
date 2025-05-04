@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. For Net banking, the minimum amount that you can transfer in a single transaction is ₹50. In order to add funds to your Angel One account, kindly follow these steps – Figure: Reaching the Add Funds page Figure : How to add funds Further steps to be taken as per the mode of transaction have been explained in the following section – 1. After selecting the mode of transfe r as Net banking on the Add funds page, the user will be redirected to the page of the bank whose account he has selected on the Add Funds page. 2. On this page, enter the required details e.g. customer ID and password. 3. Once the transaction is completed, the user will be redirected to the Account page with respective status of transaction (i.e. either success, failed or pending ). 1

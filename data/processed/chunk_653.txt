@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_diy-processes_how-to-update-bank-account-details_d9c0954c.txt
+Title: URL: https://www.angelone.in/knowledge-center/diy-processes/how-to-update-bank-account-details
+Topic: bank account
+
+. The request will be processed in 2-3 working days. FAQs How many times can a bank account be modified? A bank account can be modified any number of times. How many days will it take to reflect on account? It will take 2-3 business days to process the request. Is the IFSC code compulsory to modify a bank account? Yes, the IFSC code is compulsory to modify a bank account. Can I remove the bank account whenever required? Yes, you can remove or delete the bank account whenever required

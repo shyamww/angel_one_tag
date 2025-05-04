@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_fixed-deposits_d0668a64.txt
+Title: URL: https://www.angelone.in/support/fixed-deposits
+Topic: account opening
+
+. No, your details, including your mobile number, must match those verified by our banking partner. A mismatch will result in your application being rejected by the bank. These permissions are needed to verify your mobile number by sending an SMS. Rest assured, these permissions are used solely for verification purposes. Yes, you can. However, we recommend using the SIM registered with your bank account for authentication. Yes, you can retry. Ensure you use the SIM linked to your bank account for authentication. No, currently, we only process fixed deposit requests for individuals with an active PAN. For booking fixed deposits, we need to verify your PAN with the regulated authorities. If there is a mismatch, the booking cannot be completed

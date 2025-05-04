@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_fixed-deposits_d0668a64.txt
+Title: URL: https://www.angelone.in/support/fixed-deposits
+Topic: account opening
+
+. Please update your name to match your PAN. Why is my Aadhar required? Aadhar is mandatory for identification and KYC setup for your account, necessary for processing your FD request. Do I need a physical copy of my Aadhar? No, a physical copy is not required. We use secure platforms like DigiLocker and CKYC for verifying your Aadhar and other documents. What is DigiLocker? DigiLocker is a government initiative under the Digital India project for storing and verifying documents like PAN card, driving license, Aadhar card, school marksheets, and insurance papers. What should I do if there's a name mismatch and I can't complete the step? For successful FD booking, the name on your Aadhar and PAN should match. Correct the details on either your PAN or Aadhar card and retry

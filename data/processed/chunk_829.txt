@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. Once you choose two of these, they will appear in your Home and Watchlist sections (in sync for both sections so you have to change twice) so that you can track them easily. 3. Manage Notification – You may choose to not receive any further notifications on your Orders as well as notifications from the Angel one Advisory henceforth by turning off the switch icon next to either of these categories. This section allows you to call us directly or read about our contact details and FAQs through a linked article

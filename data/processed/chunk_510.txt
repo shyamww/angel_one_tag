@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. Click ‘Proceed’ to submit the request Figure 1 : Process of withdrawal of funds When can I place a withdrawal request in case of sell transactions? As per the settlement cycle, you can place a funds payout request on the below-mentioned days. For delivery sell transactions, a payout request can be placed on the T+1 day (next working day). For F&O transactions, fund payout requests can be placed on T+1 day (next working day). For example, you have sold equity shares of ABC Limited on Monday. In that case, your funds will be released on T+1 day (The next working day), i.e. Tuesday, assuming that there are no trading holidays between Monday and Tuesday. So, you will be able to place the funds payout request on Tuesday

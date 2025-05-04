@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. Using this, you can have a fair idea which periods (say months or weeks) you have had the most losses – you can easily adjust the timeframe that you want to work with by adjusting the “Date Range” on top. The date range can be the previous 7 days, 15 days, 30 days, the period since the beginning of the financial year, a previous financial year or any other custom period. Once you choose a date range, you will then see the P&L for that period along with the – Realised P&L – The total P&L that your trades in the market made Charges – The charges that you had to pay to brokers, SEBI etc. Net Realised P&L – It is equal to the Realised P&L minus the charges paid i.e

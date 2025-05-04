@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. We will process your funds payout request as per the timeline given below: Note: Payout marking after cut-off time for the day will be processed on the next working day as per the payout cycle. Explanation For example – You have ₹1000 in your withdrawable balance on Monday. • You place a withdrawal request of ₹500 on Monday 11 am. Your request will be processed at 5:30 pm and you will receive credit by 9:30 pm. • You place a withdrawal request on Monday 6 pm. Your request will be processed at 7:00 am on Tuesday and you will receive credit by 9:30 am on Tuesday. Until the payout cycle starts, you can still trade assets using the entire available balance, even if you have placed a withdrawal request

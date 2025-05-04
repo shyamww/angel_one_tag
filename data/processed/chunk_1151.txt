@@ -1,0 +1,17 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_5000_Bronze_SOB (2).txt
+Title: Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/pdfs/America's_Choice_5000_Bronze_SOB (2).pdf
+Topic: trading
+
+3 of 6   
+[* For more information about limitations and exceptions, see the plan or poli cy document at www. detegohealth .com  Common  
+Medical Event  Services You May Need   
+Member out of pocket  Limitations, Exceptions, & Other Important Information 
+Professional Fees:  20% after deductible  
+Emergency medical 
+transportation  20% after deductible  Subject to plan allowable  
+Urgent care  $60 copay /visit Subject to plan allowable  
+If you have a hospital 
+stay Facility fee (e.g., hospital room)  Facility:  20% of plan allowable, 
+deductible does not apply  Failure to obtain precertification will result in a 50% benefit 
+reduction ($2,500 maximum). Subject to plan allowable.  
+Physician/surgeon fees  Professional Fees:  20% after deductible  Subject to plan allowable

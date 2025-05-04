@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_add-funds-the-digital-way_eae36f16.txt
+Title: URL: https://www.angelone.in/knowledge-center/trading-account/add-funds-the-digital-way
+Topic: bank account
+
+. If you find that the balance is not updated, then try switching to another section (such as Home or Watchlist) and then come back again to Account. The balance should be updated by then. View Funds Transaction Details Under this section you can view two sections – funds added and funds withdrawn. Funds Added Under this section you can check all the fund additions made by you along with the following information – If you are concerned about transactions related to a particular bank or even a particular amount, then you can directly search for the transaction by entering the bank name or the amount in the search bar. Final Words Let us all get rid of the unnecessary stress that we experience and apprehensions we have whenever making online transactions

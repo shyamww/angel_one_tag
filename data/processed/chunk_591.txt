@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_add-funds-the-digital-way_eae36f16.txt
+Title: URL: https://www.angelone.in/knowledge-center/trading-account/add-funds-the-digital-way
+Topic: bank account
+
+. If you are using net banking for your transactions, then you can use bank accounts from a limited number of banks. The list of banks whose accounts may be used for netbanking can be found below – List of Banks through which user can perform Net Banking transactions – Sr. No

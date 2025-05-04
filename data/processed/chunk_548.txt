@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. IFSC codes and account numbers have been changed for several banks due to the recent mergers. For example, the Oriental Bank of Commerce & United Bank of India merged with the Punjab National Bank and more. So, if your bank has recently merged or amalgamated, then please make sure that your account number and IFSC code are updated on our app. The old IFSC code will not be valid for any of the online transactions. For some of the users account numbers might have been changed too. So, to continue enjoying hassle-free pay-ins/payouts with Angel One, you need to ensure that your bank details, like IFSC code, account number, etc., are correct. You can do so online by visiting the profile section of our app. Check the below table to know if your bank is on the list of merged banks

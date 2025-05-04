@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_add-funds-the-digital-way_eae36f16.txt
+Title: URL: https://www.angelone.in/knowledge-center/trading-account/add-funds-the-digital-way
+Topic: bank account
+
+. Digital funds transfer process is gaining importance these days because of – Faster payment 24*7 transfer facility available Higher security Ease of carrying out transactions Tracks & maintains a record of each transaction Steps to Add Funds Here’s a quick step-by-step process of adding funds to your Angel One account – Go to the ‘Account’ section after logging in 2. Click the ‘Add funds’ button 3. Enter the amount that you want to add 4. Choose the bank account that you want to add the funds from – kindly note that only the bank accounts registered with Angel One (which you select here on the Add Funds page) should be used further as well in the transaction completion

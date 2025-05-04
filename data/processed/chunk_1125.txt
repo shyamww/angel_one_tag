@@ -1,0 +1,19 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_5000_HSA_SOB (2).txt
+Title: Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/pdfs/America's_Choice_5000_HSA_SOB (2).pdf
+Topic: trading
+
+condition 
+More information about 
+prescription drug 
+coverage i s available at 
+www. medalistrx .com  Generic drugs  $15 co- pay after deductible  Copays  listed are for 0- 30 day supply/prescription.  31- 90 
+day supply; generic $30.00  co-pay after deductible, brand 
+name $ 130.00  co-pay after deductible, Non -Preferred 
+Brand $20 0.00 co- pay after deductible  
+ Preferred brand drugs  $65 co-pay after deductible  
+Non-preferred brand drugs  $100  co-pay after deductible  
+Specialty drugs   Excluded  
+If you have outpatient 
+surgery  Facility fee (e.g., ambulatory 
+surgery center)  Facility:  20% of plan allowable, 
+deductible does not apply  Failure to obtain precertification will result in a 50% benefit reduction ($2,500 maximum). Subject to plan allowable.

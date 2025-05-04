@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. This process of transferring funds to a registered bank account is known as Funds Payout. In this article, we answer some of the key questions that users may have related to withdrawing funds from their Angel One account. In Angel One, funds payout requests are processed twice a day for the convenience of traders. We will process your funds payout request as per the timeline given below. Suppose you have ₹1000 in your withdrawable balance on Monday. Please Note: Below is the list of NSE Clearing Holidays – Why is my withdrawable balance zero or not matching my trading account balance? You have unsettled balances in your account. It can happen because of the following reasons: For example – You have a ₹1000 delivery sell transaction on Monday. You can withdraw these on Tuesday

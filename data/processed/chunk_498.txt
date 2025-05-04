@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. If you place a withdrawal request of ₹500 on Monday 11 am (i.e. between 7:00 am to 5:30 pm), your request will be processed at 5:30 pm, and you will receive credit by 11:30 pm. If you place a withdrawal request on Monday at 6 pm (i.e. between 5:30 pm today and 7:00 am of the next working day), your request will be processed at 7:00 am on Tuesday, and you will receive funds in your account by 11:30 am on Tuesday. Please Note: Angel One will process payout requests only on settlement days. After you place a request, funds will be credited according to the payout cycles as above. Any request received after the cut-off time/day will be processed on the next settlement/working day

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. 9:00 am. And you have placed a funds payout request of Rs. 1000. After placing the request, you entered into an intraday trade and suffered a loss of Rs. 100 (including Brokerage, Taxes, and other statutory charges), leaving your clear ledger balance to be Rs. 900. Hence, when your withdrawal request is processed, you will receive Rs. 900 in your account and not Rs. 1000. In this case, the loss of Rs. 100 due to the intraday transaction modified the amount you received. Similarly, if there is any change in the margin requirements or any accrual charges that need payment, you will receive only a partial amount. Why is my withdrawable balance zero or not matching my trading account balance? It may happen because you have unsettled balances in your account

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_list-of-order-status-on-your-angel-one-trading-account_421269e9.txt
+Title: knowledge-center_trading-account_list-of-order-status-on-your-angel-one-trading-account_421269e9.txt
+Topic: bank account
+
+URL: https://www.angelone.in/knowledge-center/trading-account/list-of-order-status-on-your-angel-one-trading-account

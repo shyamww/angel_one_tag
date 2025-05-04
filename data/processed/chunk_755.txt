@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. Roles and responsibilities for UPI (including roles and responsibilities of NPCI, PSP Bank, TPAP and the dispute redressal mechanism) List of affiliated partners Join Our Community This section allows you to directly join our various social media communities on the following platforms – Instagram Twitter Youtube Facebook Linkedin Logout Finally at the end of the section, you can choose to log out of the account by choosing the “LOGOUT” button. Below the logout button, you can spot the App version that is currently downloaded on your device

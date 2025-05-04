@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. Security Settings – Here you can – a. Change the PIN – First you will have to authenticate with an OTP (OTP sent to registered number and email) and then you can easily enter the new 4-digit PIN. b. Enable fingerprint – Just turn on the switch icon. 2. User Preference – Under this section you can choose the following: a. App theme – You can choose light mode, dark mode or system default as the colour theme of the app. b. Investment Guide – You can choose to not have the investment guide features if you want from here. c. Charts – You can choose the brand by which your charts are powered by – i.e. either ChartIQ or TradingView d. Market Indices – You can choose any two market indices out of these three – Nifty, Banknifty and Sensex

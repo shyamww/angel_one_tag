@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_Medical_Questions_-_Modified_(3) (1).txt
+Title: America's_Choice_Medical_Questions_-_Modified_(3) (1).txt
+Topic: trading
+
+If you or any of your dependents applying for coverage, are currently being treated for condition(s) you have been hospitalized for in the past 5 years, you will not be able to get on any of the America’s Choice Plans which includes America’s Choice 2500 Gold, America’s Choice 5000 HSA, America’s Choice 250, America’s Choice 500, America’s Choice 7350 Copper, America’s Choice 5000 Bronze, BCBS 1500, BCBS 2500, BCBS 5000, BCBS 7350, PMS Gigcare 1500, PMS Gigcare 2500, PMS Gigcare 5000, PMS Gigcare 7350, PMS Gigcare 5000 HSA

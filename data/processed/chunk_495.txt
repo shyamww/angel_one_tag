@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. When can I transfer the funds to my bank account? I have made a BTST (Buy Today, Sell Tomorrow) trade. When can I place a funds payout request? I have 2 bank accounts. I want to receive funds from my secondary bank account. What should I do? I have placed multiple withdrawal requests

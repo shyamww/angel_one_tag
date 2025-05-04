@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_ipo-ofs_1f9d323f.txt
+Title: URL: https://www.angelone.in/support/ipo-ofs
+Topic: account opening
+
+. You will also receive another UPI mandate request for your modified bid. However, if you haven’t approved the original mandate request, no amount will be blocked for the original IPO bid. Why is my IPO application rejected? Few of the common reasons your IPO application is rejected You might have entered the wrong UPI ID or UPI PIN while approving the mandate Ensuring that the Bank A/c, Demat A/c, and UPI ID are mapped to the same PAN For example: Jack is using Jill’s UPI ID to apply for an IPO with his Demat A/c

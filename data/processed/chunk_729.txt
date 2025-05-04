@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. For example you have ₹1000 in your account and have placed a withdrawal request for the entire amount. But the amount has not been withdrawn yet, while the stock market has already opened. At this point, say you buy a stock worth ₹200 – so ₹200 is used up while ₹800 remains. Therefore, when the withdrawal happens, only ₹800 will be withdrawn. The remaining ₹200 withdrawal will be executed once the account again has ₹200 or more. Other reasons for partial withdrawals Partial withdrawals can also occur because of any of the following reasons: Margin requirements Initiated new trade Accrual charges For example: Assume you have Rs. 1000 as a withdrawable balance at the beginning of the day i.e. 9:00 am. And you have placed a funds payout request of Rs. 1000

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_diy-processes_how-to-update-bank-account-details_d9c0954c.txt
+Title: URL: https://www.angelone.in/knowledge-center/diy-processes/how-to-update-bank-account-details
+Topic: bank account
+
+. The account being added must belong to the same person as the Angel account holder. You can add up to 5 bank accounts. If auto-verification of the bank account fails, a cancelled cheque needs to be uploaded for verification. Please have your Aadhaar card ready when requesting to e-sign the application online. Ensure your Aadhaar card is linked to your mobile number to complete the process. Joint account holder/ HUF account holder/ minor account holder/ NRI/ corporate account holder To update your bank details, you can raise a ticket here (Create Ticket —> Select Account Details under Category —> Select Profile Details under Sub-Category) and attach the filled-in bank modification form with relevant proof

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_demat-account_how-to-set-up-ddpi-on-angel-one_a6974e23.txt
+Title: URL: https://www.angelone.in/knowledge-center/demat-account/how-to-set-up-ddpi-on-angel-one
+Topic: bank account
+
+. If it’s a minor’s account, then the minor’s name and guardian’s signature is required. Process to Activate DDPI Online Step 1. Accessing the DDPI option: Log in to the Angel One app, access the profile section from the home page. Use your mobile number/client ID and OTP to login. Use this link to activate DDPI. Step 2: Click on ‘DDPI Status’ under the “Manage Accounts” section. Step 3: Read the DDPI consent and proceed to E- sign Step 4: You will be redirected for e-signing the request. Enter the Aadhar details & OTP sent on the mobile number linked to the Aadhaar card. Make sure to use your own Aadhar card for e-signing Step 5: The request will be processed in 2 – 4 working days. Why Should You Use DDPI? DDPI makes frequent trading of shares a hassle-free process

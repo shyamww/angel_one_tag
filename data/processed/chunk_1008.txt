@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_fixed-deposits_d0668a64.txt
+Title: URL: https://www.angelone.in/support/fixed-deposits
+Topic: account opening
+
+. Correct the details on either your PAN or Aadhar card and retry. Use the “add” button on the address choice screen to add an address that is not listed. The address from your Aadhar is considered your permanent address. You may add or select your current address to proceed with the FD application. Yes, you can select your permanent address as your current address if they are the same. Video KYC is required to complete the KYC verification step as mandated by the RBI. If you have made the payment, we will notify you when the bank officers are available. If video KYC is not completed within 3 days, your money will be refunded to your bank account. Video KYC is available from Monday to Saturday, 09:00 AM to 08:00 PM. We will notify you to complete the video KYC during these hours if pending

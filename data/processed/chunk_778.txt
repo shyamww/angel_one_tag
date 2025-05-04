@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. You can check from the above table when the payout cycles of Angel One are effective. For non-traded users, the processing of the request for funds withdrawal starts within a few minutes of the placement of the request. However, you can still cancel the request if you can send your request for cancellation within that time window. How to update your bank account details? IFSC codes and account numbers have been changed for several banks due to the recent mergers. For example, Oriental Bank of Commerce & United Bank of India merged with the Punjab National Bank and more. So, if your bank has recently merged or amalgamated then please make sure that your account number and IFSC code is updated on our app. As the old IFSC code will not be valid for any of the online transactions

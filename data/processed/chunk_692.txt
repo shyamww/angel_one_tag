@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_demat-account_how-to-set-up-ddpi-on-angel-one_a6974e23.txt
+Title: URL: https://www.angelone.in/knowledge-center/demat-account/how-to-set-up-ddpi-on-angel-one
+Topic: bank account
+
+. Ensure that your Aadhaar card is linked to your mobile number to complete the process. 2. Joint account holder/ HUF account holder/ minor account holder/ NRI/ corporate account holder To activate DDPI, you can raise a ticket here (Create Ticket —> Select Account Details under Category —> Select Profile Details under Sub-Category) and attach the filled-in and signed DDPI form. You can download the form from the links below – HUF | Joint | Corporate | Minor | NRI(E) | NRI(O) If you are an HUF account holder, then all family members’ name and signature is required along with the HUF stamp. If you are a joint account holder then all holder’s name and signature is required on the form . If you are a corporate account holder, then an authorized signatory signature and stamp is required

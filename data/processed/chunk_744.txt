@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. Figure: Trade charges vs Non-trade charges (left), Angel One charges vs External charges (right) List of trades In this subsection you can see a list of all the trades that you have made in the chosen time period along with their basic details – Name of the asset e.g. BankNifty Dec 1 2022 43,100 CE Quantity of the asset in the transaction – in number of units Type of transaction e.g. Sell, Intraday Price (e.g. Sell Price in case of sell transaction) Charges You can also click on each of the trades and check the trade details which will include (apart from the above details) the following – Trade Value (i.e. Quantity Price) Charges – Brokerage, ETC, STT, GST, SEBI tax

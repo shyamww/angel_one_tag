@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. Your withdrawable balance will be ₹1000 (which you had added earlier that day. The ₹500 of today will not be visible in your withdrawable balance). I added funds to my account today, but I am not able to withdraw them today. Why? Funds added cannot be withdrawn on the same day. They can be withdrawn only on T+1 day (the next working day) onwards. For example, if you added ₹10,000 on 22-Nov-22, then you can withdraw it only on 23-Nov-22. Please Note: If you have added funds through Net Banking/Payment Aggregator, you can place a withdrawal request only after the funds are settled through the banking channel. I have placed the withdrawal request, but my trading balance has not been reduced why? Kindly check if the next payout cycle has started yet

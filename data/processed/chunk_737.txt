@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. It will show the exact same details, just for the list of funds withdrawn. Figure : Process of checking funds withdrawal status – funds withdrawn section from view funds transaction details (left) and individual transaction details (right). Statement Summary You can also view a Statement Summary of all your transactions done in a particular time period – it is basically a ledger. In this section you will find the opening and closing balances in that period as well as the credit and debit amounts. You can change the period for which you are viewing the summary by clicking the dates mentioned above – from there you can choose any of the standard periods i.e. last 7, 15 or 30 days or 3 or 6 months or even the year till date or the financial year

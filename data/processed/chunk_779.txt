@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. As the old IFSC code will not be valid for any of the online transactions. For some of the users account numbers might have been changed too. So, to continue enjoying hassle-free pay-ins/payouts with Angel One, you need to ensure that your bank details like IFSC code, account number, etc. are correct. You can do so online by visiting the profile section of our app. Check the below table to know if your bank is in the list of merged banks. View Funds Transaction Details Under this section you can view two sections – funds added and funds withdrawn

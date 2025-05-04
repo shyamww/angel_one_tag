@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_ipo-ofs_1f9d323f.txt
+Title: URL: https://www.angelone.in/support/ipo-ofs
+Topic: account opening
+
+. In such a case, Jack’s application will be rejected because Jill’s bank account used is not linked to the demat account of Jack Jill’s UPI ID used is not linked to Jack’s PAN Your funds will be blocked once you approve the UPI mandate request for IPO. Your funds will be unblocked/released on or before the UPI mandate expiry date if the shares are not allotted through IPO. Please reach out to your bank in case funds are not unblocked/released post the mandate expiry date. We would like to explain that Angel One is merely a platform to apply for IPO and has no control over its allotment. IPO allotment can never be guaranteed since, in case of over-subscription, the allotment is done via a lottery system

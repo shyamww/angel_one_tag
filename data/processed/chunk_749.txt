@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. Click the download icon on the top right. Choose the option to ‘Download Tax P&L Statement’. Statement This section gives an overview of the total financial information of your account for the chosen time frame. The time period that you can view spans from days, months, years to 3 financial years or a custom date. The data can be viewed in chart form over the course of time, making it more granular or aggregated as per your preference. The Trade Overview shows the different classes of assets traded along with – Their quantities Their settlement values The charges paid. The Net Settlement Value The trades executed have been simplified where we provide subtitles (journalising statement). You have the option to download the contract note that helps the user to have an in-depth analysis

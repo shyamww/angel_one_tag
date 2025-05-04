@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_fixed-deposits_d0668a64.txt
+Title: URL: https://www.angelone.in/support/fixed-deposits
+Topic: account opening
+
+. Correct the details on either your PAN or Aadhar card and retry. How can I add a new address as my current address? Use the “add” button on the address choice screen to add an address that is not listed. What should I do if I can't change my permanent address? The address from your Aadhar is considered your permanent address. You may add or select your current address to proceed with the FD application. Can my permanent address be the same as my current address? Yes, you can select your permanent address as your current address if they are the same. Why is video KYC required? Video KYC is required to complete the KYC verification step as mandated by the RBI

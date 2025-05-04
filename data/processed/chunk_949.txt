@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_charts_abb68e57.txt
+Title: URL: https://www.angelone.in/support/charts
+Topic: account opening
+
+. Open application settings and clear cache and clear data, once cleared, chart should load. Always check system timezone is in sync with your chart timestamp. Also device timezone is synced with IST. If the charts are not working correctly in other timezones , try to come in Indian timezone and check the functioning of charts. Our team is working to give a more flexible and permanent fix for this. Our experts will be happy to assist you Still have any queries? Connect with our support team. For any partnership requests please reach us at 022-40003600(Extn: 6925) Open Free Demat Account! Join our 3 Cr+ happy customers Get the link to download the App Trusted by over 3Cr+ clients, Angel One is one of India’s leading retail full-service broking houses

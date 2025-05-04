@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. Once you choose a date range, you will then see the P&L for that period along with the – Figure: P&L as per dates (left) and list of P&L for each trade (right) Clicking on the dark box to view further analysis of your profit and loss such as your most profitable and most loss-making assets, top traded scrips etc. You can see the profits or losses made by each individual asset along with the following details – Clicking an individual asset will show you the above details along with a section of “Trade Overview” which includes the details of daily transactions made for that asset such as quantity traded and daily profit or loss made. You can click the filter button (3 vertical rods/hamburger menu) in order to filter the list of scrips based on segment and product types

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. If you are using net banking for your transactions, then you can use bank accounts from a limited number of banks. The list of banks whose accounts may be used for netbanking can be found below – List of Banks through which user can perform Net Banking transactions – Sr. No

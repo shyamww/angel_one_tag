@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_diy-processes_how-to-update-bank-account-details_d9c0954c.txt
+Title: URL: https://www.angelone.in/knowledge-center/diy-processes/how-to-update-bank-account-details
+Topic: bank account
+
+. If it’s an NRI account, then the bank modification form and proof is mandatory. Only Indian bank proof with NRE and NRO categories will be acceptable. Process to Modify Bank Account Online Step 1. Accessing the Bank Accounts option: Use this link to update your bank details or log in to the Angel One app, access the profile section from the home page.Use your mobile number/client ID and OTP to log in . Step 2. Click on “Bank Accounts” under Manage accounts. You can add or edit bank accounts on this page. Adding a new Bank Account Step 1. Click on Add Bank Account Step 2. Enter the new bank account number and IFSC code Please make sure to add the bank account registered with Angel One account holder only Step 3. Check if the branch name is correct and click on continue Step 4

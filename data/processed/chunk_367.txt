@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_127afa5f.txt
+Title: URL: https://www.angelone.in/knowledge-center
+Topic: bank account
+
+. Know More Angel One Advantage Present in the industry since 1987 Technology-enabled DEMAT & Trading Account Technical and Fundamental Research Guidance Knowledge Center To avail lucrative returns on your investments, Angel One empowers you with the knowledge of stock trading and investment. Our knowledge bank is divided into different modules that explain related investment concepts, terms, strategies, and practices, such that you will be able to trade in the market in a better manner. Demat Account With the standardisation of share trading transactions, establishment of NSE, and the use of the internet and digital technology, online trading was..

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. To do so, visit the “ACCOUNT” section of the app, go to the section named “VIEW FUNDS TRANSACTION DETAILS”, and then view the “Funds Withdrawn”. Under the Funds Withdrawn section, you can click on any of your withdrawal requests and view its details, such as the status of the request and the expected credit time of the requested amount in your bank account. Figure 2: Transaction details (left) and section individual withdrawal details section (right) Can I cancel my withdrawal request? Yes, if the payout cycle has not started yet, you can cancel your withdrawal request. For example, if you made a withdrawal request at 6:30 am on a Monday morning, you can easily cancel it at 6:50 am because the payout cycle does not start until 7:00 am on Mondays

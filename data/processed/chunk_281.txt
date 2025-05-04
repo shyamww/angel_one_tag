@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_28362f81.txt
+Title: URL: https://www.angelone.in/support#head-report-mb
+Topic: account opening
+
+. No need to issue cheques by investors while subscribing to IPO. Just write the bank account number and sign in the application form to authorise your bank to make payment in case of allotment. No worries for refund as the money remains in investor's account. We understand that certain investment advisors may be approaching members of the public including our clients, representing that they are our partners, or representing that their investment advice is based on our research. Please note that we have not engaged any third parties to render any investment advisory services on our behalf. We do not share our research reports or our clients’ personal or financial data with any third parties and have not authorized any such person to represent us in any manner

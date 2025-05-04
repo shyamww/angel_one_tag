@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_list-of-order-status-on-your-angel-one-trading-account_421269e9.txt
+Title: knowledge-center_trading-account_list-of-order-status-on-your-angel-one-trading-account_421269e9.txt
+Topic: bank account
+
+. You have initiated the cancellation 2. You are placing an IOC (Immediate or Cancelled) order, which means you are placing an order that needs to be executed immediately and if that does not happen then it should be canceled 3. You have placed an order with day validity but your bid/ask price does not get hit, so the order will be automatically canceled at the end of the trading day i.e., for F&O it will be auto-canceled at 03:30 pm, and for cash segment at 04:00 pm How to check your order status on our app? 1.Click on Orders Tab at the bottom. Click on Open Orders tab on top 3.Click on Order History. 4.Click on any order to view detailed message for rejections. Note: Only terminal statuses are shown in order history, i.e. only executed, rejected and cancelled

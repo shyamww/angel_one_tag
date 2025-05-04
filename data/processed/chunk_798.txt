@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. No. (ARN) BSE Cash/F&O, CD, NSE Cash/F&O/CD, MSEI CD, MCX F&O, NCDEX F&O, CDSL Reg. No. Cash, F&O, UIN numbers Fraud prevention – Includes tips to prevent fraud with your Angel one account Privacy policy document (includes email for sending feedback – feedback@angelbroking.com ) Terms and Conditions document Risk Policies document – This document shows the basis for our categorisation of scrips as per risk profile and related information. This section also talks about the various processes and compliance details followed by Angel One related to execution of trades and related activities

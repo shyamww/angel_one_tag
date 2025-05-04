@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_diy-processes_how-to-update-bank-account-details_d9c0954c.txt
+Title: URL: https://www.angelone.in/knowledge-center/diy-processes/how-to-update-bank-account-details
+Topic: bank account
+
+How to Modify Bank Account Details? 4 mins read by Angel One Share Topics Covered Points to Note Process to Modify Bank Account Online Adding a new Bank Account Editing a Bank Account FAQs Points to Note Individual account holder If you are an individual account holder, you can update your bank details online using this link through Angel One App. The new bank account being added through the online process will automatically become your primary bank account. This means that any SEBI Payouts or automated fund settlements and dividends will be received in the primary bank account. Through the online process, you can add a new bank account or update the IFSC code (branch) of the existing bank account. The account being added must belong to the same person as the Angel account holder

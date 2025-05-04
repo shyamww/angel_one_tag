@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_fixed-deposits_d0668a64.txt
+Title: URL: https://www.angelone.in/support/fixed-deposits
+Topic: account opening
+
+. We will notify you to complete the video KYC during these hours if pending. You can retry during banking hours within 2 days of FD booking if your video KYC fails. Your video KYC details are verified by bank officers, which may take up to 3 hours. Track the video KYC and FD confirmation status on the ‘My Investments’ tab. Retry using the correct details. If it still doesn’t work, try again later. If the issue persists, raise a ticket with our support team for assistance. These details are required by the bank to create your fixed deposit and ensure communication if needed. Your money is deducted before video KYC as it is the last step to verify your identity and book your FD. Your money is safe with the bank, and interest starts accumulating from the time of payment

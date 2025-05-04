@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. either success, failed or pending ). 1. After selecting the mode of transfer as UPI on the Add Funds page, the user will be asked to enter the UPI ID/ VPA . 2. Enter the UPI ID/ VPA of any UPI application . 3. Click on Proceed . 4. Go to the respective UPI application, the UPI ID/VPA of which you had entered. 5. You will find a payment request from Angel One in the UPI application. 6. Click on Approve to complete the transaction. 7. Enter the UPI PIN to authorise the transaction. 8. Once the transaction is completed, the user will be redirected to the accounts page with respective status of transaction (i.e. either success, failed or pending). You can check the status of your transaction under the “View Funds Transaction Details” in the Account section of the app

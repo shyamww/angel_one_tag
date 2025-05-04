@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_ipo-ofs_1f9d323f.txt
+Title: URL: https://www.angelone.in/support/ipo-ofs
+Topic: account opening
+
+. Your UPI mandate request status on the Angel One app does not get updated in real-time. It will reflect shortly in your IPO order book. For an IPO application process in the Angel One app, withdrawing, deleting, and canceling the application is the same thing

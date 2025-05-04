@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. You have the option to download the contract note that helps the user to have an in-depth analysis. The transaction entries are categorised to cite quarterly payouts, showcase fund credits, trades, pledges, charges etc. You can also select a particular trade and get a condensed version of the contract note citing overview of no of traders, segment type, transaction charges, NSV etc. Help & Support This section gives the links to – Contact Us/FAQs – This section leads you to the Angel One page for website content and contact details Call Us – Clicking this allows you to directly call the Angel One office by phone Settings There are three points from which you can access this settings page – from the settings icon in the Home page and the Watchlist page or directly from the Account page

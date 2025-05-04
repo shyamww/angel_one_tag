@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+URL: https://www.angelone.in/knowledge-center/user-manual/account#:~:text=SECTION%20WISE%20DESCRIPTION-,Refer%20and%20Earn,-This%20is%20a

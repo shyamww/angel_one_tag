@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_diy-processes_how-to-update-bank-account-details_d9c0954c.txt
+Title: URL: https://www.angelone.in/knowledge-center/diy-processes/how-to-update-bank-account-details
+Topic: bank account
+
+. The new bank account being added through the online process will automatically become your primary bank account. This means that any SEBI Payouts or automated fund settlements and dividends will be received in the primary bank account. Through the online process, you can add a new bank account or update the IFSC code (branch) of the existing bank account. The account being added must belong to the same person as the Angel account holder. You can add up to 5 bank accounts. If auto-verification of the bank account fails, a cancelled cheque needs to be uploaded for verification. Please have your Aadhaar card ready when requesting to e-sign the application online. Ensure your Aadhaar card is linked to your mobile number to complete the process

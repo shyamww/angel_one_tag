@@ -1,0 +1,18 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_5000_HSA_SOB (2).txt
+Title: Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/pdfs/America's_Choice_5000_HSA_SOB (2).pdf
+Topic: trading
+
+family members meets the overall family deductible . 
+Are there services 
+covered before you meet 
+your deductible ? Yes. Preventive care services are 
+covered before you meet your 
+deductible . This plan covers some items and services even if you haven’t yet met the deductible  amount.  
+But a copayment  or coinsurance may apply.  For example, this plan  covers certain preventive 
+services without cost-sharing and before you meet your deductible . See a list of covered 
+preventive services at https://www.healthcare.gov/coverage/preventive- care-benefits/ . 
+Are there other  
+deductibles  for specific 
+services?  No.   You don’t have to meet deductibles for specific services, but see chart starting on page 2 for 
+other costs for services this plan covers.  
+What is the out -of-p ocket

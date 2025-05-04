@@ -1,0 +1,25 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_5000_Bronze_SOB (2).txt
+Title: Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/pdfs/America's_Choice_5000_Bronze_SOB (2).pdf
+Topic: trading
+
+If your child needs 
+dental or eye care  Children’s eye exam  Not covered  None  
+Children’s glasses  Not covered  None  
+Children’s dental check -up Not covered  None  
+ 
+Excluded Services & Other Covered Services:  
+Services Your Plan  Generally Does NOT Cover (Check your policy or plan document for more information and a list of any  other  excluded services .) 
+• Acupuncture  
+• Bariatric surgery  
+• Cosmetic surgery  
+• Dental care (Adult)  
+  
+• Infertility treatments  
+• Long- term care  
+• Non-emergency care when traveling outside the 
+U.S. 
+ • Private -duty nursing  
+• Routine foot care  
+• Weight loss programs  
+ 
+Other Covered Services ( Limitations may apply to these services. This isn’t a complete list. Please see your plan document. )

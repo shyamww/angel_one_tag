@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_add-and-withdraw-funds_f5f20784.txt
+Title: URL: https://www.angelone.in/support/add-and-withdraw-funds
+Topic: account opening
+
+. Ensure you follow the correct procedure and check the above points to resolve the issue. Why am I unable to add funds using net banking? You might be unable to add funds via net banking due to the following reasons: Unregistered Bank Account : You are making payments from a bank account that is not registered with Angel One. Mismatched Bank Details : You have added different bank account details on the ‘Add Funds’ page and net banking page. Incorrect Credentials : You have entered incorrect credentials on the bank’s net banking page. Insufficient Balance : You have insufficient balance in your bank account to make the transaction. Transaction Limits : Your bank has placed limits on your transaction amount or the number of transactions

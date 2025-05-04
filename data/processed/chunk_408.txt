@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_demat-account_track-the-status-of-your-application-on-angel-one-app_2153ea74.txt
+Title: knowledge-center_demat-account_track-the-status-of-your-application-on-angel-one-app_2153ea74.txt
+Topic: account opening
+
+. What to do if the Application is Rejected? Technically your application is not rejected – it is simply stalled until you provide the required information. In case your application is stalled for some reason, you do not have to worry. A member of the Angel One sales team will contact you directly. Causes for Application Rejection The following are the primary reasons for which your application might be rejected – 1. Signature Validation Issue It means that your signature could not be validated. It could be because the signature itself was not clear/valid or for some other reason. It is one of the top reasons for application rejection, hence make sure the signature you upload is clear and proper. 2

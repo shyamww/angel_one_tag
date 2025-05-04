@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_charts_abb68e57.txt
+Title: URL: https://www.angelone.in/support/charts
+Topic: account opening
+
+should load successfully now If the chart loading fails & issue still exists : Open Playstore again Search for Android System Webview Click to Update the Android System Webview to the latest version Go to settings -> privacy and security -> clear browser history

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_heres-how-you-can-activate-a-segment-in-angel-one_13226d9b.txt
+Title: knowledge-center_trading-account_heres-how-you-can-activate-a-segment-in-angel-one_13226d9b.txt
+Topic: bank account
+
+. For activating derivative segments, you can raise a ticket here (Create Ticket —> Select Account Details under Category —> Select Segment Activation under Sub-Category) and attach the filled in segment modification form along with any income proof. Any of the documents from the below mentioned lists are valid income proof: Last 6 months bank account statement It should have at least one transaction from every month ITR acknowledgement form It should be from latest/previous financial year Form 16 It should be from latest/previous financial year Demat Account Statement Latest Holdings statement Mutual Funds Statement Latest Holdings statement Net worth certificate If you are an HUF account holder, then Karta’s signature and HUF stamp is required on the form

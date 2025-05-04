@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_angel-one-recommendations_4e9703e3.txt
+Title: URL: https://www.angelone.in/support/angel-one-recommendations
+Topic: account opening
+
+. You can see the recommendations by visiting https://www.angelone.in/trade/home You will find the recommendations under “Top Stock Picks via Advisory” section on this screen. We don’t charge any fee for recommendations. The usual trading charges will be levied when a user takes a trade. Angel One provides you recommendations through advisory services. Based on extensive research, we provide portfolio and single stock advisory. To explore the more you can check Single stock advisory on the home screen of Angel One web or mobile platform. Here you will find suggestions for Intraday, Short and Long term stocks. You can also explore the Portfolio advisory on the home screen if you want to buy a group of stocks. Angel One provides you recommendations through advisory services

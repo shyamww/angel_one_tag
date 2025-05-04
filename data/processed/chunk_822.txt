@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. Sorts and filters include – With this feature you can pinpoint the charges paid for a single trade or a single asset on a single day (including separate trade charges and total charges). Total charges In this dark box, you can see the total charges made on your account along with specifically the trade charges and non-trade charges. If you click on this dark box to know further details, you will see – You can further probe into the reason why those charges were made by clicking on the “Charges Explained” button below. You can also specifically check what were the charges made on your account by Angel One specifically (the rest being ‘External charges’) by turning on the switch icon for the same

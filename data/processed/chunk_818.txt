@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. In intraday and F&O trades, the buyer does not always have to pay the entire amount – he/she can pay a fraction (or margin) of the asset price to the seller and the rest can be paid off by the stockbroker (in this case, Angel One). Angel One pays off the remaining portion of the transaction value in the form of a loan given out to the buyer. Now in order to avail this loan facility, the buyers would have to pledge delivery stocks in their possession. The process of adding stocks to be pledged is the following – 1. Go to Account and click on “Pledge stocks” 2. Check the “Margin Pledge” – if it is too low, click increase 3. The list of stocks that can be pledged appears 4. You may increase the quantity of stocks pledged 5

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_fixed-deposits_d0668a64.txt
+Title: URL: https://www.angelone.in/support/fixed-deposits
+Topic: account opening
+
+. If there is a mismatch, the booking cannot be completed. The name linked to your PAN should be accurate for successful identity verification and KYC purposes. Please update your name to match your PAN. Aadhar is mandatory for identification and KYC setup for your account, necessary for processing your FD request. No, a physical copy is not required. We use secure platforms like DigiLocker and CKYC for verifying your Aadhar and other documents. DigiLocker is a government initiative under the Digital India project for storing and verifying documents like PAN card, driving license, Aadhar card, school marksheets, and insurance papers. For successful FD booking, the name on your Aadhar and PAN should match. Correct the details on either your PAN or Aadhar card and retry

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. The balance should be updated by then. Follow these steps in order to withdraw funds – Overall, the remainder of the withdrawal process and checking of withdrawal status is quite similar to the process of adding funds, especially with respect to “View Funds Transaction Details”. Figure: Funds withdrawal process As per the settlement cycle, you can place funds withdrawal requests on the following days. For delivery sell transactions, funds payout requests can be placed on T+2 day. For F&O transactions, funds payout requests can be placed on T+1 day. It takes time for the transaction to be settled. Therefore, until the settlement of the money involved in the sell transaction has happened, the withdrawable balance will not change

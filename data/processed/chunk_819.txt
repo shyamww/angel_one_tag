@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. You may increase the quantity of stocks pledged 5. Once you have adequate margin allocated, click “Increase Margin” Figure: The process of adding stocks pledged – Part 1 6. Thereafter you will receive a request for OTP verification 7. Once the OTP is verified, you will reach the CDSL page where you will be able to verify the Margin Pledge transaction. Once the process is completed, it takes roughly 15-20 minutes for the increase in margin to be reflected in the trading balance summary. The process of withdrawing stocks pledged is also the same

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_heres-how-you-can-activate-a-segment-in-angel-one_13226d9b.txt
+Title: knowledge-center_trading-account_heres-how-you-can-activate-a-segment-in-angel-one_13226d9b.txt
+Topic: bank account
+
+. An equity derivative is a class of financial contracts that invest in equities as the underlying asset (equity stocks/shares in the secondary market). For instance – Reliance Futures is an equity derivative. Its price varies with the movements of the Reliance Share Price. Similarly, for an index-based derivative, the underlying asset is a group of indices such as NIFTY , BANK NIFTY , and FINNIFTY . In this segment, you can trade only in the group of assets and not in the individual security. Futures and Options are the two derivatives available for trading in this segment. In the Futures contract, an investor agrees to buy/sell a particular asset at an agreed-upon rate on a future date

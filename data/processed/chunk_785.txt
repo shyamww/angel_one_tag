@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. Once the request is placed, a link will be sent to the registered email/sms at 5:30 pm on the same day. Open the link and authenticate it by entering PAN and OTP before 9:00 pm on the same day. On successful validation, the pledge will be created and an intimation will be sent. Dash The Angel One Dash is the most open, easy-to-use trading transactions management tool available to Indian traders today. It is made of the following 3 components – Trades and Charges Profit and Loss Statement Trades and Charges In the fintech industry, trust is the biggest asset. Hence, a transparent system that reveals all profits and charges clearly and efficiently is the bedrock of a successful investment journey

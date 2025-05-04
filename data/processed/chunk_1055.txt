@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_ipo-ofs_1f9d323f.txt
+Title: URL: https://www.angelone.in/support/ipo-ofs
+Topic: account opening
+
+. Cut-off price is the price at which the shares get issued through an IPO to the investors. This price is ascertained at the allotment stage. When an investor applies for an IPO at a cut-off price, that means he is ready to bid at this price. In an ideal scenario, all retail investors bid at the cut-off price to increase their chance of allotment. You can apply for an IPO using any other bank account provided the account is in the name of the investor. It is preferred that you apply using your savings account as most banks do not process IPO applications submitted using a current account. You need to check with your bank for more details. You cannot apply via the Angel One app. However, you can apply using your HUF account through the physical ASBA process with your bank

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_fixed-deposits_d0668a64.txt
+Title: URL: https://www.angelone.in/support/fixed-deposits
+Topic: account opening
+
+. Can I retry the registration if it was not successful earlier? Yes, you can retry. Ensure you use the SIM linked to your bank account for authentication. Can I invest in FD if I do not have a PAN? No, currently, we only process fixed deposit requests for individuals with an active PAN. Why is my PAN not getting verified? For booking fixed deposits, we need to verify your PAN with the regulated authorities. If there is a mismatch, the booking cannot be completed. What should I do if the name shown against my PAN is incorrect and I can't update it? The name linked to your PAN should be accurate for successful identity verification and KYC purposes. Please update your name to match your PAN

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_fixed-deposits_d0668a64.txt
+Title: URL: https://www.angelone.in/support/fixed-deposits
+Topic: account opening
+
+. What if I am not available during bank working hours? If you have made the payment, we will notify you when the bank officers are available. If video KYC is not completed within 3 days, your money will be refunded to your bank account. When can I complete the Video KYC? Video KYC is available from Monday to Saturday, 09:00 AM to 08:00 PM. We will notify you to complete the video KYC during these hours if pending. What if video KYC fails? You can retry during banking hours within 2 days of FD booking if your video KYC fails. How will I know the status of my video KYC? Your video KYC details are verified by bank officers, which may take up to 3 hours. Track the video KYC and FD confirmation status on the ‘My Investments’ tab

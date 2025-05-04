@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_complaince_7a887979.txt
+Title: URL: https://www.angelone.in/support/complaince
+Topic: account opening
+
+. What is the basis of categorizing a scrip under ASM? SEBI and Exchanges jointly decides the objective criterion to shortlist securities under ASM based on the following parameters: 1. High Low Variation 2. Client Concentration 3. Close to Close Price Variation 4. Market Capitalization 5. Volume Variation 6. Delivery Percentage 7. No. of Unique PANs & PEs When will a scrip be classified under GSM? On the basis of below-mentioned pointers, Regulatory Body and the Exchanges make their decision of adding a scrip under GSM category: 1. Periodic Call Auction Session for Illiquid Securities 2. Periodic Review of Movement of Securities to/from Trade for Trade 3. Persistent Noise Creators 4

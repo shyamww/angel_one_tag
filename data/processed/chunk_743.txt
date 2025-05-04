@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. Total charges In this dark box, you can see the total charges made on your account along with specifically the trade charges and non-trade charges. If you click on this dark box to know further details, you will see – The percentage of charges that are trade and non-trade charges The exact and specific categories of charges made overall – e.g. brokerage, exchange turnover charges (ETC), taxes (STT, GST, SEBI taxes), Stamp duties etc. You can further probe into the reason why those charges were made by clicking on the “Charges Explained” button below. You can also specifically check what were the charges made on your account by Angel One specifically (the rest being ‘External charges’) by turning on the switch icon for the same

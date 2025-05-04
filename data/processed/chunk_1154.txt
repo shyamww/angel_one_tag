@@ -1,0 +1,6 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_5000_Bronze_SOB (2).txt
+Title: Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/pdfs/America's_Choice_5000_Bronze_SOB (2).pdf
+Topic: trading
+
+precertification will result in a 50% benefit reduction 
+($2,500 maximum). Subject to plan allowable

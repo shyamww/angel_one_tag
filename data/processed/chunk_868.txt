@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_add-and-withdraw-funds_f5f20784.txt
+Title: URL: https://www.angelone.in/support/add-and-withdraw-funds
+Topic: account opening
+
+. Timeout : Your UPI request on the app was not accepted within 10 minutes. Transfer Limit Exceeded : Your UPI transfer limit set by your bank is exhausted. Daily Limit Reached : Your daily UPI transaction limit is reached across all UPI apps. Insufficient Balance : You may have an insufficient balance in your bank account. Network Issues : Network failure at the bank’s/provider’s system. Incorrect UPI ID : Your UPI ID (VPA) entered is incorrect. Wrong UPI PIN : You have entered the wrong UPI PIN. Incorrect Method : You are transferring funds to Angel One’s UPI ID directly instead of using the ‘Add Funds’ option on the Angel One app/platform. Ensure you follow the correct procedure and check the above points to resolve the issue

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_127afa5f.txt
+Title: URL: https://www.angelone.in/knowledge-center
+Topic: bank account
+
+URL: https://www.angelone.in/knowledge-center

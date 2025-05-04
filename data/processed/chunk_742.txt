@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. With this in mind, we have made the Trades and Charges section as detailed and transparent as possible. Search You can search for a particular asset to see the charges specifically associated with it. Moreover, with the sort and filter option (3 rods/hamburger button to the right of the search bar), you can check how much charges you are paying for a particular group of assets. Sorts and filters include – Sort alphabetically Filter by segment – e.g. Equity-Cash, F&O, Commodity and Currency Filter by product – i.e. intraday or delivery/carry forward With this feature you can pinpoint the charges paid for a single trade or a single asset on a single day (including separate trade charges and total charges)

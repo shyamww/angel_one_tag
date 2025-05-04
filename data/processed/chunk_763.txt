@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. If your device already has the GPay or PhonePe app downloaded, then Angel one will directly show them as payment options to the user. Payment limits For UPI, there is no minimum transaction limit, while the maximum amount that you can pay through UPI is ₹ 2 lakh (this also depends on the bank with which you have the account). For Net banking, the minimum amount that you can transfer in a single transaction is ₹50

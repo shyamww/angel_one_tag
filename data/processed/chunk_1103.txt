@@ -1,0 +1,16 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_7350_Copper_SOB (1) (1).txt
+Title: America's_Choice_7350_Copper_SOB (1) (1).txt
+Topic: trading
+
+Non-preferred brand drugs   
+Not covered  
+ 
+Specialty drugs    
+Not covered  
+ None  
+If you have outpatient 
+surgery  Facility fee (e.g., ambulatory 
+surgery center)  Facility:  0% of plan allowable, deductible 
+does not apply  Failure to obtain precertification will result in a 50% benefit reduction ($2,500 maximum). Subject to plan allowable.  
+Physician/surgeon fees  Professional Fees:  0% after deductible, 
+subject to plan allowable  Subject to plan allowable

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_fc3b4382.txt
+Title: URL: https://www.angelone.in/knowledge-center/user-manual
+Topic: bank account
+
+. Please Wait... Please Wait... Please Wait... Please Wait... Please Wait... SBI Share Price Adani Enterprises Share Price Reliance Share Price Mazagon Dock Share Price ITC Share Price HDFC Bank Share Price Infosys Share Price Adani Ports Share Price TCS Share Price Tata Motors Share Price Please Wait... Please Wait... Please Wait... Please Wait... Please Wait... Please Wait..

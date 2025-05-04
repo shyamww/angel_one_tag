@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. Figure: Trade charges vs Non-trade charges (left), Angel One charges vs External charges (right) List of trades In this subsection you can see a list of all the trades that you have made in the chosen time period along with their basic details – You can also click on each of the trades and check the trade details which will include (apart from the above details) the following – Figure : List of trades and their charges (left) and break up of charges for an individual trade (right) You can get a full list of possible charges on your trades on this page . The first thing that you will notice when you open the Profit and Loss (P&L) section are circular gauge indicators that show you the level of profit or loss made on the respective date

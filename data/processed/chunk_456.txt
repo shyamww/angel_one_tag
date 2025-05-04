@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_heres-how-you-can-activate-a-segment-in-angel-one_13226d9b.txt
+Title: knowledge-center_trading-account_heres-how-you-can-activate-a-segment-in-angel-one_13226d9b.txt
+Topic: bank account
+
+. Separate categories facilitate trading and transactions. So, if you want to invest in multiple asset classes, you need to enable the segment in the Angel One app. Types of Segments: Following are the various segments of the stock market. Equity Cash (Capital Market) It classifies all the transactions involving buying and selling of shares listed on the exchange. In India, stocks from listed companies trade in NSE (National Stock Exchange) and BSE (Bombay Stock Exchange). So, you will have to activate the equity segment in the Angel One app to transact in the equity market

@@ -1,0 +1,39 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_2500_Gold_SOB (1) (1).txt
+Title: Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/pdfs/America's_Choice_2500_Gold_SOB (1) (1).pdf
+Topic: trading
+
+Diagnostic tests ( ultrasounds and blood work)  
+Specialist visit (anesthesia)  
+ 
+Total Example Cost  $2,580  
+  
+In this example, Peg would pay:  
+Cost Sharing  
+Deductibles  $2,500 
+Copayments  $40 
+Coinsurance  $0 
+What isn’t covered  
+Limits or exclusions  $0 
+The total Peg would pay is  $2,540 
+  
+   
+ 
+   
+ The plan’s  overall deductible   $
+2 ,500 
+ Specialist  [ cost sharing]  $40 
+ Hospital (facility) [cost sharing]  8 0% 
+ Other [cost sharing]  0% 
+ This EXAMPLE event includes services like:  
+Primary care physician office visits ( including 
+disease education)  
+Diagnostic tests (blood work)  
+Prescription drugs  
+Durable medical equipment (glucose meter)  
+ 
+Total Example Cost  $1,000 
+  
+In this example, Joe would pay:  
+Cost Sharing  
+Deductibles  $960 
+Copayments  $40

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. Before you leave, let us go over the entire funds payout process. Withdrawal of Funds from Your Angel One Account With Angel One, you can easily place a funds payout (withdrawal) request on our platform and receive it directly in the bank account linked to your trading account. The benefits of using an Angel One trading account are: You can attach multiple bank accounts with the correct bank details. No restriction as to receiving funds only in your primary bank account. You can receive money in your selected bank account. Before making funds withdrawal requests, you must check the “Withdrawable Balance” in your account

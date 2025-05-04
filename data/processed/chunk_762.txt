@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+38 State Bank of India 39 Surat Bank 40 Sutex Bank 41 SVC Co-operative Bank 42 Tamilnad Mercantile Bank 43 The Ratnakar Bank Limited (RBL) 44 UCO Bank 45 Union Bank of India 46 Utkarsh Bank 47 Yes Bank However, if you are using UPI (including via Google Pay or PhonePe) then you may transact using accounts from any bank (as long as it is registered with your Angel one account)

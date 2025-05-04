@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. Here you can also see important details such as your Client ID, PAN number and the ID of your DP (Depository Participant). For a more detailed guide on how to modify your profile, click here . Trading Balance Summary This section shows the overall balance available from all the transactions made using that account. The details shown include the following – Trading balance Available cash Margins from Pledge Holdings Amount Utilised today (i.e. total amount used in transactions today) Trading Balance Breakup – Amount added today (A) Amount utilised (B) Trading balance (i.e. A-B) Figure: Trading Balance Summary Payments Gateways Angel One offers you two digital payment modes to transfer funds via our app/platform: UPI transfer Net banking

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_heres-how-you-can-activate-a-segment-in-angel-one_13226d9b.txt
+Title: knowledge-center_trading-account_heres-how-you-can-activate-a-segment-in-angel-one_13226d9b.txt
+Topic: bank account
+
+. Major participants in this segment are corporations, central banks, retail forex brokers, hedge funds, and individual investors. You can activate the NSE-FX segment at the Angel One platform to trade in the Forex market . How Do I Check Which Segments Are Activated? To check which segments are currently activated on your Angel One account, follow these steps: Go to your profile on the mobile app or web platform . You can use this link as well to directly access your segment details There you can see the activated categories under the ‘Manage Segment’ section. Why Do We Need to Activate Segments? The right mix of equity, future & options, commodities, and currency can help build a diversified portfolio while earning good returns

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_demat-account_track-the-status-of-your-application-on-angel-one-app_2153ea74.txt
+Title: knowledge-center_demat-account_track-the-status-of-your-application-on-angel-one-app_2153ea74.txt
+Topic: account opening
+
+. Your name is missing on the bank proof submitted. In that case, you may have to upload or re-upload – A pre-printed cancelled cheque leaf with your name and account number clearly mentioned on the same, or A pre-printed bank passbook or statement with your name, account number and IFSC code on the same. A change in name is required. In that case, kindly provide a gazette or marriage certificate. Other details, such as date of birth, user’s father’s name, etc. is not correct/matching. If the name on PAN is correct, then Bank Verification Letter is still required, and if Bank Proof is correct, then additional ID proof is still required. Conclusion Hope this article clears doubts regarding the application process of Angel One

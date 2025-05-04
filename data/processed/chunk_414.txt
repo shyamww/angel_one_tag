@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_demat-account_track-the-status-of-your-application-on-angel-one-app_2153ea74.txt
+Title: knowledge-center_demat-account_track-the-status-of-your-application-on-angel-one-app_2153ea74.txt
+Topic: account opening
+
+. Fig.1: Application Status window on the Home page (left), which can be expanded with a click to a larger view (right). Currently, the application status goes through the following stages in chronological order – Application Submitted – This means that the application, including the e-Sign , has been filled out by you. Application Under Review – This means that the application is currently being reviewed by the Angel One team. Application Rejected – This means that your application has been rejected for some reason, which will be disclosed. For instance, if the rejection is due to submitting an incorrect document, the section mentions the exact document that needs to be resubmitted for the application to be successful

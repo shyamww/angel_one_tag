@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. Once the settlement has happened you will see the change in your withdrawal balance. Payout cycles In Angel One, funds payout requests are processed three times a day for the convenience of traders. We will process your funds payout request as per the timeline given below: Note: Payout marking after cut-off time for the day will be processed on the next working day as per the payout cycle. Explanation For example – You have ₹1000 in your withdrawable balance on Monday. Until the payout cycle starts, you can still trade assets using the entire available balance, even if you have placed a withdrawal request. For example you have ₹1000 in your account and have placed a withdrawal request for the entire amount

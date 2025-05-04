@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_fixed-deposits_d0668a64.txt
+Title: URL: https://www.angelone.in/support/fixed-deposits
+Topic: account opening
+
+. Your money is safe with the bank, and interest starts accumulating from the time of payment. In case of issues with VKYC, your money will be refunded within 7 working days. What is required for completing a video KYC? Keep your PAN Card and a blank paper with a pen ready for the VKYC process. Still need help? Create Ticket Want to connect with us? Our experts will be happy to assist you Connect with us Still have any queries? Connect with our support team. CONTACT US Partnership Request For any partnership requests please reach us at partners@angelbroking.com Media Queries 022-40003600(Extn: 6925) EMAIL US Verifying your mobile number helps us create a secure account for you, ensuring a smooth app experience and the safety of your account

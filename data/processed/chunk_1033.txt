@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_ipo-ofs_1f9d323f.txt
+Title: URL: https://www.angelone.in/support/ipo-ofs
+Topic: account opening
+
+. When is the next IPO coming? Visit our website https://www.angelone.in/upcoming-IPO to get all information about forthcoming IPO’s. I have approved the mandate request, but the status on the Angel One app is still pending. What to do? Your UPI mandate request status on the Angel One app does not get updated in real-time. It will reflect shortly in your IPO order book. Can I withdraw/delete/cancel my IPO bid? For an IPO application process in the Angel One app, withdrawing, deleting, and canceling the application is the same thing

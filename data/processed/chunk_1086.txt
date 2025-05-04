@@ -1,0 +1,24 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_2500_Gold_SOB (1) (1).txt
+Title: Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/pdfs/America's_Choice_2500_Gold_SOB (1) (1).pdf
+Topic: trading
+
+(Limited to 12 month rental or purchase price, whichever is 
+less) 
+Hospice services  20% after deductible  Failure to obtain precertification will result in a 50% benefit 
+reduction ($2,500 maximum). Subject to plan allowable.  
+If your child needs 
+dental or eye care  Children’s eye exam  Not covered  None  
+Children’s glasses  Not covered  None  
+Children’s dental check -up Not covered  None  
+ 
+Excluded Services & Other Covered Services:  
+Services Your Plan  Generally Does NOT Cover (Check your policy or plan document for more information and a list of any  other  excluded services .) 
+• Acupuncture  
+• Bariatric surgery  
+• Cosmetic surgery  
+• Dental care (Adult)  
+  
+• Infertility treatments  
+• Long- term care  
+• Non-emergency care when traveling outside the 
+U.S.

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_add-funds-the-digital-way_eae36f16.txt
+Title: URL: https://www.angelone.in/knowledge-center/trading-account/add-funds-the-digital-way
+Topic: bank account
+
+. If your device already has the GPay or PhonePe app downloaded, then Angel one will directly show them as payment options to the user. Payment limits For UPI, there is no minimum transaction limit, while the maximum amount that you can pay through UPI is ₹ 2 lakh (this also depends on the bank with which you have the account). For Net banking, the minimum amount that you can transfer in a single transaction is ₹50. Further steps to be taken as per the mode of transaction have been explained in the following section – Net Banking Transfer Process – After selecting the mode of transfe r as Net banking on the Add funds page, the user will be redirected to the page of the bank whose account he has selected on the Add Funds page. 2. On this page, enter the required details e.g

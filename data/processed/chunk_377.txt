@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_127afa5f.txt
+Title: URL: https://www.angelone.in/knowledge-center
+Topic: bank account
+
+. Start online share trading by referring to the the share market tips and trading... IPO When a privately held business collects money from the public and in turn gives them shares in their company. The shares are then traded for the first... Derivatives Derivatives is a lucrative financial instrument that allows investors to gain from the market volatility. Here you can make large gains by investing a... Futures and options Trading Derivatives come handy for protection against price fluctuations. There are two types of derivatives – future and options. Apart from being a hedge against price... Commodities Trading Commodity trading is one of the foundations for the global trading system that trades various commodities from the primary economic sector, that acts..

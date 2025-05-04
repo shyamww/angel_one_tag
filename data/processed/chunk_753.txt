@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. About Us Entering this section will give you the following details about Angel One – Phone number (clicking this will allow you to dial the number) Customer support email – support@angelbroking.com Website – www.angelone.in Location – 601, 6th Floor, Ackruti Star, MIDC, Andheri (E), Mumbai – 400093 Policies Membership details (you can also find these details at the footer of the Angel One website, under the ‘Disclaimer’ section) – SEBI registration number Research Analyst SEBI registration number AMFI Reg. No. (ARN) BSE Cash/F&O, CD, NSE Cash/F&O/CD, MSEI CD, MCX F&O, NCDEX F&O, CDSL Reg. No

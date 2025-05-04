@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_ipo-ofs_1f9d323f.txt
+Title: URL: https://www.angelone.in/support/ipo-ofs
+Topic: account opening
+
+. Follow the below path to withdraw/cancel your IPO application Tap on IPO on the Home page Click on IPO orders & click on the IPO Order you wish to cancel Tap on cancel & confirm to cancel your IPO Order How can I check my IPO application status? Follow the below path to check your IPO application status Tap on IPO on the Home page Click on IPO orders & click on the IPO Order for which you want to check the application status Your IPO application status will be visible from here Where to check the IPO allotment status

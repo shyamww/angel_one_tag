@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_add-and-withdraw-funds_f5f20784.txt
+Title: URL: https://www.angelone.in/support/add-and-withdraw-funds
+Topic: account opening
+
+. Please Wait... Please Wait... Please Wait... Please Wait... Please Wait... SBI Share Price Adani Enterprises Share Price Reliance Share Price Mazagon Dock Share Price ITC Share Price HDFC Bank Share Price Infosys Share Price Adani Ports Share Price TCS Share Price Tata Motors Share Price Please Wait... Please Wait... Please Wait... Please Wait... Please Wait... Please Wait..

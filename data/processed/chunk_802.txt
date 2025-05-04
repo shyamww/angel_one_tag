@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+of each and every transaction performed by them in such an organised manner, that it becomes easier for the user to understand exactly what financial situation and cash outflow/inflow position his/her account is currently experiencing

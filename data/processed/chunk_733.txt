@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. Why is my funds payout request rejected? Your withdrawal request can get rejected for the following reasons: You have entered a new trade Margin requirement has changed Inadequate balance in your account Can I withdraw funds to a secondary bank account that I have? While withdrawing, Angel One gives you the option to select a bank account in which you want to receive the funds. The amount will get credited to the bank account you have chosen. Can I cancel my withdrawal request? Yes, if the payout cycle has not started yet, you can cancel your withdrawal request. For example, if you have made a withdrawal request at 6:30 am on a monday morning you can easily cancel the withdrawal request at 6:50 am, because the payout cycle does not start until 7:00 am on Mondays

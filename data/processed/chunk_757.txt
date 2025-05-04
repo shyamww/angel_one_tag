@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. Trade and non-trade charges, profit and loss, statement summaries and various other data are examined so that users can understand the source and destination of every cash flow, taking into account the variation with time and assets involved. SECTION WISE DESCRIPTION Profile You can access and edit your profile by clicking on the profile icon showing your initials on the top right corner. You can change your profile picture by clicking the camera icon beside the top circle. You can change your phone number, email address and location from this section. You can also add a bank account if your want to your trading account Finally you can subscribe to Derivatives trading (F&O, Currency, Commodity) in addition to Equity Cash trading

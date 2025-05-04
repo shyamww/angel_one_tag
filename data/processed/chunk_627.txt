@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_add-funds-the-digital-way_eae36f16.txt
+Title: URL: https://www.angelone.in/knowledge-center/trading-account/add-funds-the-digital-way
+Topic: bank account
+
+. Choose a reliable partner like Angel One for your trading and investing needs. Open Demat account with Angel One, today! We do not accept payment via unregistered bank accounts as per SEBI guidelines. Yes, you can add multiple bank accounts in your trading account. For UPI, there is no minimum transaction limit, while the maximum amount that you can pay through UPI is ₹ 2 lakh (this also depends on the bank with which you have the account). For Net banking, the minimum amount that you can transfer in a single transaction is ₹50. All the major private and public sector banks are supported by our payment gateways. If you are using net banking for your transactions, then you can use bank accounts from a limited number of banks

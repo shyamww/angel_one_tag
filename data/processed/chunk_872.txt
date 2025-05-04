@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_add-and-withdraw-funds_f5f20784.txt
+Title: URL: https://www.angelone.in/support/add-and-withdraw-funds
+Topic: account opening
+
+. Why is my amount debited from bank but not added to my trading balance? If the amount is debited from the bank but not added to your Angel One balance, it could be due to the following reasons: Unregistered Bank Account : You might have tried to add funds from an unregistered bank account. The debited amount will be credited back to your bank in 3-4 working days. Technical Glitch : There could be a technical glitch at your bank’s end. The debited amount will be refunded in 3-4 working days. Can I use debit/credit card to add funds to my Angel One account? You cannot add funds to your Angel One account using your debit or credit card. As per the regulatory guidelines, your transactions should be from a verified bank account

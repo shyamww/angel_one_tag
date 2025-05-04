@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_heres-how-you-can-activate-a-segment-in-angel-one_13226d9b.txt
+Title: knowledge-center_trading-account_heres-how-you-can-activate-a-segment-in-angel-one_13226d9b.txt
+Topic: bank account
+
+. log in to the Angel One app, go to the Accounts page, and click on the Profile Widget. Use your mobile number/client ID and OTP to login i) Enter the OTP sent by CAMSfinserv to your registered mobile number ii) Bank accounts linked with the mobile number will be fetched iii) User will be automatically redirected forthe e-signing i) Select the document from the list you want to provide as the financial proof ii) Click on “Add a file” box. Select the file you want to add from your device. Now that you know about the different categories of trading and investing in the stock market, activate all the segments you want to invest in. This segmented trading will help you in diversifying your portfolio and achieving your financial goals

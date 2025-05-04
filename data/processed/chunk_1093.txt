@@ -1,0 +1,37 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_2500_Gold_SOB (1) (1).txt
+Title: Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/pdfs/America's_Choice_2500_Gold_SOB (1) (1).pdf
+Topic: trading
+
+In this example, Joe would pay:  
+Cost Sharing  
+Deductibles  $960 
+Copayments  $40 
+Coinsurance  $0 
+What isn’t covered  
+Limits or exclusions  $0 
+The total Joe would pay is  $1,000 
+     
+ 
+    
+ The plan’s  overall deductible   $
+2 ,500 
+ Specialist  [ cost sharing]  $40 
+ Hospital (facility) [cost sharing]  8 0% 
+ O ther [cost sharing]  0% 
+ 
+This EXAMPLE event includes services like:  
+Emergency room care (including medical 
+supplies)  
+Diagnostic test (x -ray) 
+Durable medical equipment (crutches)  
+Rehabilitation services (physical therapy)  
+ 
+Total Example Cost  $2,500 
+  
+In this example, Mia would pay : 
+Cost Sharing  
+Deductibles  $2,500 
+Copayments  $40 
+Coinsurance  $0 
+What isn’t covered  
+Limits or exclusions  $0

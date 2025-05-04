@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_diy-processes_7aaba8cb.txt
+Title: URL: https://www.angelone.in/knowledge-center/diy-processes
+Topic: bank account
+
+URL: https://www.angelone.in/knowledge-center/diy-processes

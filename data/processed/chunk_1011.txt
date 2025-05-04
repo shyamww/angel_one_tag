@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_fixed-deposits_d0668a64.txt
+Title: URL: https://www.angelone.in/support/fixed-deposits
+Topic: account opening
+
+. Angel One App is a powerhouse of cutting-edge tools such as basket orders, GTT orders, SmartAPI, advanced charts and others that help you navigate capital markets like a pro. Attention Investors Stock Brokers can accept securities as margin from clients only by way of pledge in the depository system w.e.f. September 1, 2020. Prevent Unauthorised transactions in your Trading/Demat Account. Update your mobile numbers/email IDs with your stock brokers/Depository Participant. Receive alerts/information of your transaction/all debit and other important transactions in your Trading/ Demat Account directly from Exchange/CDSL at the end of the day. Issued in the interest of investors

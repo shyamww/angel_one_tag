@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_demat-account_how-to-set-up-ddpi-on-angel-one_a6974e23.txt
+Title: URL: https://www.angelone.in/knowledge-center/demat-account/how-to-set-up-ddpi-on-angel-one
+Topic: bank account
+
+. You should definitely consider using DDPI because it allows Angel One to perform the following functions on your behalf – Therefore, the entire process of selling and pledging becomes much smoother across asset classes. However, in case you already have an Angel One account, you have to take the following steps to activate your DDPI: Note: The address of Angel One’s Hyderabad office is “Angel One LTD., 2nd Floor, Osman Plazza, Road No.1, Banjara Hills, Hyderabad – 500034.” In case you already have an account, as well as a POA set up already, then you have to also take exactly the same steps mentioned above to activate your DDPI. Once you receive the DDPI activation email from the CDSL, the earlier POA will be discontinued from then onwards

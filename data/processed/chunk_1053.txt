@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_ipo-ofs_1f9d323f.txt
+Title: URL: https://www.angelone.in/support/ipo-ofs
+Topic: account opening
+
+. For IPO applications, only UPI ID/Handles approved by NPCI are allowed. In case you are unable to apply for IPO using your UPI ID/Handle, we recommend that you check the list of banks/apps approved by NPCI for providing UPI service for IPO application. In case you can’t find your UPI Handle in the dropdown list on the IPO page in the Angel One app, it means your UPI Handle is not approved by NPCI for applying for an IPO. Try to use or create an alternative UPI ID with any of the entities featured on the NPCI list. Below are a few things you can do: Go to your Payment App – Navigate to the mandate section and check if you have an open mandate or not

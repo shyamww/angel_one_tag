@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. The other withdrawal requests will remain pending until the next payout processing cycle. For example: If you place a withdrawal request on Monday at 11:00 am for Bank A and at 12:00 pm for Bank B (i.e., between 07:00 am and 05:30 pm), only one of the payout requests (i.e., either Bank A or Bank B) will be processed at 05:30 pm and credited to your account by 11:30 pm. The payout request of Bank B will be processed in the next payout cycle (i.e., on Tuesday at 7:00 am) and credited to your account by 11:30 am on Tuesday. Before you leave, let us go over the entire funds payout process

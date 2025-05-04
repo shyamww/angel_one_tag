@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_add-and-withdraw-funds_f5f20784.txt
+Title: URL: https://www.angelone.in/support/add-and-withdraw-funds
+Topic: account opening
+
+. Network Failure : There may be a network failure at the bank’s or provider’s system. Ensure you check these points and follow the correct procedure to add funds via net banking. What are the different options available to add funds to my Angel One account? You can add funds using any of the following options. Add funds using payment apps such as PhonePe, Google Pay, etc. Add funds using UPI ID. Add funds using net banking. Please make sure to add funds from your bank account registered with Angel One in all the above options. Can I add funds from any bank account to my Angel One account? No, you can add funds only from your bank account registered with Angel One. This is in accordance with SEBI guidelines

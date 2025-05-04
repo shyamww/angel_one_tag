@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_complaince_7a887979.txt
+Title: URL: https://www.angelone.in/support/complaince
+Topic: account opening
+
+. SEBI (Securities and Exchange Board of India) along with the stock exchanges have initiated an Additional Surveillance Measure or ASM to safeguard investors’ interests by ensuring there are no market speculations or manipulations like unexpected price movements. The stocks are categorized under ASM for surveillance based on criteria specified by NSE here . GSM or Graded Surveillance Measure is a system used by Indian Stock Exchanges like NSE and BSE to alert traders/investors and ask them to be extra cautious while dealing in certain securities which have been categorized under GSM. Scrips can be classified under GSM due to abnormal price hike that doesn’t match with the company’s financial health, are illiquid, have negligible market capital, and are underpreforming

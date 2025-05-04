@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_ipo-ofs_1f9d323f.txt
+Title: URL: https://www.angelone.in/support/ipo-ofs
+Topic: account opening
+
+. Even if you apply via different platforms using the same PAN, your application will be rejected and you will not get the IPO allotment. However, you can increase the chances of IPO allotment by applying with different account linked to different PAN. For example, you can apply with your and your parents demat account separately. Still need help? Create Ticket Want to connect with us? Our experts will be happy to assist you Connect with us Still have any queries? Connect with our support team. CONTACT US Partnership Request For any partnership requests please reach us at partners@angelbroking.com Media Queries 022-40003600(Extn: 6925) EMAIL US Generally, you can find your UPI ID in the profile section of the respective app you are using

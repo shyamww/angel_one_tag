@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_add-funds-the-digital-way_eae36f16.txt
+Title: URL: https://www.angelone.in/knowledge-center/trading-account/add-funds-the-digital-way
+Topic: bank account
+
+. Bank Name 1 Allahabad Bank 2 Andhra Bank 3 AU Small Finance Bank 4 Axis Bank 5 Bandhan Bank 6 Bank Of Baroda 7 Bank of India 8 Bank of Maharashtra 9 Canara Bank 10 Capital Bank 11 catholic syrian bank 12 Central Bank of India 13 City Union Bank 14 Corporation Bank 15 DCB 16 Deutsche Bank 17 Dhanalaxmi Bank 18 Equitas Small Finance Bank 19 Federal Bank 20 Gujarat State Cooperative Bank 21 HDFC Bank 22 HSBC 23 ICICI Bank 24 IDBI Bank 25 IDFC Bank 26 Indian Bank 27 Indian Overseas Bank 28 Indusind Bank 29 Jammu & Kashmir Bank 30 Karnataka Bank 31 Karur Vysya Bank 32 Kotak Mahindra Bank 33 Lakshmi Vilas Bank 34 Punjab National Bank 35 Saraswat Bank 36 South Indian Bank 37 Standard Chartered 38 State Bank of India 39 Surat Bank 40 Sutex Bank 41 SVC Co-operative Bank 42 Tamilnad Mercantile

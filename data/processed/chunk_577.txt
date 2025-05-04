@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_list-of-order-status-on-your-angel-one-trading-account_421269e9.txt
+Title: knowledge-center_trading-account_list-of-order-status-on-your-angel-one-trading-account_421269e9.txt
+Topic: bank account
+
+. We offer a wide range of innovative services, including online trading and investing, advisory, margin trading facility, algorithmic trading, smart orders, etc. Angel One App is a powerhouse of cutting-edge tools such as basket orders, GTT orders, SmartAPI, advanced charts and others that help you navigate capital markets like a pro. Attention Investors Stock Brokers can accept securities as margin from clients only by way of pledge in the depository system w.e.f. September 1, 2020. Prevent Unauthorised transactions in your Trading/Demat Account. Update your mobile numbers/email IDs with your stock brokers/Depository Participant

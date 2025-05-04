@@ -1,0 +1,7 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_5000_Bronze_SOB (2).txt
+Title: Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/pdfs/America's_Choice_5000_Bronze_SOB (2).pdf
+Topic: trading
+
+Do you need a referral  to 
+see a specialist ? No.  You don’t need a referral to see 
+a specialist.  You can see the specialist  you choose without permission from this plan.

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. If not, the withdrawal request will be processed only once the payout cycle has started. Overall, the withdrawal process also takes the minimum processing time. Until the payout cycle starts, you can still trade assets using the entire available balance, even if you have placed a withdrawal request. For example, you have ₹1000 in your account and have placed a withdrawal request for the entire amount. But the amount has not been withdrawn yet, while the stock market has already opened. At this point, say you buy a stock worth ₹200 – so ₹200 is used up while ₹800 remains. Therefore, when the withdrawal happens, only ₹800 will be withdrawn. The remaining ₹200 withdrawal will be executed once the account again has ₹200 or more

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. However, to avoid rejection, check the withdrawable balance and adhere to the timeline above before placing a withdrawal request. Click on the embedded links to withdraw funds instantly through our app or web platform. If you have any further problems, check out our FAQs page or reach out to us . Share Topics Covered When will the funds be credited to my account once I have placed a funds payout request? I added funds to my account today, but I am not able to withdraw them today. Why? I have placed the withdrawal request, but my trading balance has not been reduced why? Why have I received only a partial amount against my funds payout request? Why is my funds payout request rejected? I have sold the shares from my Demat account

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. So, you will be able to place the funds payout request on Tuesday. What are the different types of balances that you should look at? Withdrawable balance – The total available balance in your account that can be withdrawn from your bank account is the withdrawable balance. The withdrawable amount can differ from the total trading balance shown in your trading account. Unsettled balance – If a user earns a profit today and tries to withdraw the amount today, even though the amount from all the transactions has not been settled yet, then this amount is counted as an unsettled balance. Total balance – The total balance can be found by adding the withdrawable balance and the unsettled balance – it is the total amount that the user is entitled to at that point in time

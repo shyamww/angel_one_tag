@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. Payout requests and credits will not be processed on Saturday, Sunday, and on NSE Clearing Holidays (Maharashtra Bank Holidays). Below is the list of NSE Clearing Holidays – Sr. No Date Day Description 1 19-Feb-2025 Wednesday Chhatrapati Shivaji Maharaj Jayanti 2 26-Feb-2025 Wednesday Mahashivratri 3 14-Mar-2025 Friday Holi 4 31-Mar-2025 Monday Id-Ul-Fitr (Ramadan Eid) 5 01-Apr-2025 Tuesday Annual Bank closing 6 10-Apr-2025 Thursday Shri Mahavir Jayanti 7 14-Apr-2025 Monday Dr

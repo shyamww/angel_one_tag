@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_ipo-ofs_1f9d323f.txt
+Title: URL: https://www.angelone.in/support/ipo-ofs
+Topic: account opening
+
+. Can I apply for an IPO using my bank’s current account? It is preferred that you apply using your savings account as most banks do not process IPO applications submitted using a current account. You need to check with your bank for more details. Can I apply for an IPO using my HUF’s account? You cannot apply via the Angel One app. However, you can apply using your HUF account through the physical ASBA process with your bank. My daughter is a minor. Can I apply for an IPO using her account? The Angel One app doesn’t allow a minor to apply. Although, a minor can apply via physical ASBA process through your bank. Why didn’t my account get debited after applying for an IPO? As per the ASBA process, banks will simply hold/block your money when you apply for an IPO

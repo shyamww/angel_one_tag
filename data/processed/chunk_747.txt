@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. Net Realised P&L – It is equal to the Realised P&L minus the charges paid i.e. the actual cash that the trader is entitled to receive from the entire trading process Figure: P&L as per dates (left) and list of P&L for each trade (right) Clicking on the dark box to view further analysis of your profit and loss such as your most profitable and most loss-making assets, top traded scrips etc. You can see the profits or losses made by each individual asset along with the following details – Name of the asset Realised P&L Product type e.g

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_127afa5f.txt
+Title: URL: https://www.angelone.in/knowledge-center
+Topic: bank account
+
+. According to the law, the taxpayer... Know More Savings Schemes There are many savings schemes available in India designed to help individuals achieve their financial goals. These schemes include Public Provident Fund... Know More PAN Card A PAN card, or Permanent Account Number card, is a unique 10-character alphanumeric identifier issued by the Income Tax Department in India.... Know More Aadhaar Card Adhaar Card is a government-issued document used to identify any person resident in India. It has a 12-digit issued by the Unique Identification Authority... Know More Research Articles Research helps investors to find out the potential of security before they invest in it. Fundamental Research and Technical Research are two types of..

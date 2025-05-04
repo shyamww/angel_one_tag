@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_fixed-deposits_d0668a64.txt
+Title: URL: https://www.angelone.in/support/fixed-deposits
+Topic: account opening
+
+One application Learn how to activate F&O, Commodity and Currency segments on Angel One Know all about fund payout/withdrawal process Learn how to check the status of your order in Angel One app Know all about the brokerage and charges applicable on your trades Step by step guide to add funds to your Angel One account Know the process add a new bank account to Angel One Learn how to modify mobile number, Email ID and other profile details in Angel One Learn how to activate DDPI and the benefits associated with it Know about how refer and earn works on Angel One Verifying your mobile number helps us create a secure account for you, ensuring a smooth app experience and the safety of your account

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_heres-how-you-can-activate-a-segment-in-angel-one_13226d9b.txt
+Title: knowledge-center_trading-account_heres-how-you-can-activate-a-segment-in-angel-one_13226d9b.txt
+Topic: bank account
+
+. Points to Note The following segments at the mentioned exchanges are available for trading – Futures & Options – NSE, BSE Currency – NSE, BSE The following segments at the mentioned exchanges are available for trading – Commodity – NSE, MCX, NCDEX Equity and Mutual Funds are the default trading segments activated for all the users with a demat account Segment activation process will take 2-3 working days Online segment activation is available for the individual account holders. Individual can activate segment online by directly using this link Please have your Aadhaar card ready when placing an online segment activation request to e-sign the application. Ensure that your Aadhaar card is linked to your mobile number to complete the process. Conditions for Segment Activation 1

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. So on Monday, you will see withdrawable balance as zero and unsettled balance as ₹1000. • Funds that you have added during the day can be withdrawn on the following day • For example, suppose you have added ₹1000 on Monday, still you will be able to see withdrawable balance as Zero on Monday. Say, you add ₹500 on next day i.e. Tuesday. Your withdrawable balance will be ₹1000 (which you had added earlier day. The ₹500 of today will not be visible in withdrawable balance). I have added funds in my account but I am not able to withdraw them today itself? Funds added cannot be withdrawn on the same day itself. They can be withdrawn only on the next day (t+1) onwards. For example, if you have added ₹10,000 on Nov 22, 2022, then you can withdraw it only on Nov 23, 2022

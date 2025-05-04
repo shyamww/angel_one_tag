@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_heres-how-you-can-activate-a-segment-in-angel-one_13226d9b.txt
+Title: knowledge-center_trading-account_heres-how-you-can-activate-a-segment-in-angel-one_13226d9b.txt
+Topic: bank account
+
+. The financial market is divided into different segments with unique trading rules to simplify investing in various categories. Hence, if you want to trade in agricultural commodities like cotton and coffee and the shares of ABC company, you can’t do it under one segment. You have to trade them separately in different exchanges from your broker’s platform or app, like Angel One. Separate categories facilitate trading and transactions. So, if you want to invest in multiple asset classes, you need to enable the segment in the Angel One app. Following are the various segments of the stock market. It classifies all the transactions involving buying and selling of shares listed on the exchange

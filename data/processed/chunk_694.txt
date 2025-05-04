@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_demat-account_how-to-set-up-ddpi-on-angel-one_a6974e23.txt
+Title: URL: https://www.angelone.in/knowledge-center/demat-account/how-to-set-up-ddpi-on-angel-one
+Topic: bank account
+
+. Why Should You Use DDPI? DDPI makes frequent trading of shares a hassle-free process. You should definitely consider using DDPI because it allows Angel One to perform the following functions on your behalf – Transferring shares from your demat account to the exchange upon their sale. Pledging/re-pledging of securities in favour of a Trading Member (TM) or Clearing Member (CM) for meeting margin requirements. Transferring mutual fund units from your demat account upon their sale. Transferring your shares in open offers ( ie. buybacks/delisting/acquisitions) on the stock exchange. Therefore, the entire process of selling and pledging becomes much smoother across asset classes

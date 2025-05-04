@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. There are two sections under this – funds added and funds withdrawn, both of which can be tracked separately through this subsection. We will learn more of this from the later section on View Funds Transaction Details. How to check if the transaction is reflected on the funds in your account? Once a transaction is executed, you may check whether the transaction is reflected in your balance. For that, you must go to your Account and check your Trading Balance or click “View Funds Transaction Details”. If you find that the balance is not updated, then try switching to another section (such as Home or Watchlist) and then come back again to Account. The balance should be updated by then

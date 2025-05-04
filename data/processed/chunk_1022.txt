@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_ipo-ofs_1f9d323f.txt
+Title: URL: https://www.angelone.in/support/ipo-ofs
+Topic: account opening
+
+. ही. IPO IPO OFS Sovereign Gold Bonds (SGB) Stock SIP Where can I find my UPI ID? Generally, you can find your UPI ID in the profile section of the respective app you are using. I don’t have a UPI ID. Can I apply for an IPO? In case you don’t have a UPI ID, you can create it with any of the UPI Handles featured in the NPCI list. Alternatively, you can apply through ASBA with your bank or through physical form

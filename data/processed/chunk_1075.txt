@@ -1,0 +1,15 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_2500_Gold_SOB (1) (1).txt
+Title: Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/pdfs/America's_Choice_2500_Gold_SOB (1) (1).pdf
+Topic: trading
+
+815-6001 .  For general definitions of common terms, such as allowed amount , balance billing , coinsurance , copayment , deductible , provider , or other 
+underlined  terms see the Glossary.  You can view the Glossary at www. dol.gov/ebsa/healthreform .com  or www.cciio.cms.gov  
+   
+Important Questions  Answers  Why This Matters:  
+What is the overall 
+deductible ? $2,500/individual or $ 5,000/family   Generally, you must pay all the costs from providers up to the deductible  amount before this 
+plan begins to pay.  If you have other family members on the plan, each family member must 
+meet their own individual deductible  until the total amount of deductible  expenses paid by all 
+family members meets the overall family deductible . 
+Are there services 
+covered before you meet

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_127afa5f.txt
+Title: URL: https://www.angelone.in/knowledge-center
+Topic: bank account
+
+. Shares are bought... Know More Share Market The Indian share market comprises NSE and BSE – both which are active. Start online share trading by referring to the the share market tips and trading... Know More IPO When a privately held business collects money from the public and in turn gives them shares in their company. The shares are then traded for the first... Know More Derivatives Derivatives is a lucrative financial instrument that allows investors to gain from the market volatility. Here you can make large gains by investing a... Know More Futures and options Trading Derivatives come handy for protection against price fluctuations. There are two types of derivatives – future and options. Apart from being a hedge against price..

@@ -1,0 +1,20 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_2500_Gold_SOB (1) (1).txt
+Title: Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/pdfs/America's_Choice_2500_Gold_SOB (1) (1).pdf
+Topic: trading
+
+day supply; generic $30 .00, brand name $90.00, Non-
+Preferred Brand $150.00  
+ 
+Copays  apply to Retail and/or Mail Order.  Preferred brand drugs   
+$45 copay/prescription  
+ 
+Non-preferred brand drugs   
+$85 copay/prescription  
+ 
+Specialty drugs   Excluded None  
+If you have outpatient 
+surgery  Facility fee (e.g., ambulatory 
+surgery center)  Facility:  20% of plan allowable, 
+deductible does not apply  Failure to obtain precertification will result in a 50% benefit reduction ($2,500 maximum). Subject to plan allowable.  
+Physician/surgeon fees  Professional Fees:  20% after deductible, 
+subject to plan allowable  Subject to plan allowable

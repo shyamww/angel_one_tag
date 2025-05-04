@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_heres-how-you-can-activate-a-segment-in-angel-one_13226d9b.txt
+Title: knowledge-center_trading-account_heres-how-you-can-activate-a-segment-in-angel-one_13226d9b.txt
+Topic: bank account
+
+. Step 3: Select the segment(s) to be activated. Step 4: Provide financial proof Allow system to automatically fetch last 6 month bank statement by entering the bank name and mobile number linked to your bank account Alternatively, select “Upload documents manually” option to upload the income proof yourself Step 4a: Automatically fetch bank statement i) Enter the OTP sent by CAMSfinserv to your registered mobile number ii) Bank accounts linked with the mobile number will be fetched Select the bank account you want to use to provide last 6 months bank statement iii) User will be automatically redirected forthe e-signing Step 4b: Manually upload documents i) Select the document from the list you want to provide as the financial proof ii) Click on “Add a file” box

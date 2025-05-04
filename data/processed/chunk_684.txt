@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_demat-account_how-to-set-up-ddpi-on-angel-one_a6974e23.txt
+Title: URL: https://www.angelone.in/knowledge-center/demat-account/how-to-set-up-ddpi-on-angel-one
+Topic: bank account
+
+. Power of Attorney) could be used for debiting the shares from the client’s account. However, the facility of POA is no longer available for new users – DDPI is now offered instead . Points to Note 1. Individual account holder If you are an individual account holder, You can activate DDPI online using this link through Angel One App. Please have your Aadhaar card ready when placing an online DDPI activation request to e-sign the application. Ensure that your Aadhaar card is linked to your mobile number to complete the process. 2

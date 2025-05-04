@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_fc3b4382.txt
+Title: URL: https://www.angelone.in/knowledge-center/user-manual
+Topic: bank account
+
+. We collect, retain, and use your contact information for legitimate business purposes only, to contact you and to provide you information & latest updates regarding our products & services. We do not sell or rent your contact information to third parties. Please note that by submitting the above-mentioned details, you are authorizing us to Call/SMS you even though you may be registered under DND. We shall Call/SMS you for a period of 12 months. Angel One Limited, Registered Office: 601, 6th Floor, Ackruti Star, Central Road, MIDC, Andheri East, Mumbai - 400093. Tel: 18001020. CIN: L67120MH1996PLC101709, SEBI Regn

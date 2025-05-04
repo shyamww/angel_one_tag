@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_127afa5f.txt
+Title: URL: https://www.angelone.in/knowledge-center
+Topic: bank account
+
+. Know More Mutual Funds A mutual fund is a trust that collects money from investors sharing common investment objectives and then invests the money in securities such as... Know More Angel One User Manual Angel One's user manual essentially contains everthing you need to know about using the product. The user manual for Angel One will give you a step-by-step guide.... Know More Trading Account Similar to a bank account, a trading account acts as a common platform to sell or purchase securities. Securities are purchased through a trading... Know More Online Share Trading Online share trading involves buying and selling of stocks through online platform. Using the online share trading account, you may buy or sell share..

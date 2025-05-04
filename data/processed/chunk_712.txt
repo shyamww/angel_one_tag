@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+ACCOUNT 6 mins read by Angel One Share Topics Covered Purpose Profile Trading Balance Summary Payments Gateways Add funds Withdraw funds View Funds Transaction Details Stock Pledging MTF Dash Trades and Charges Profit & Loss Statement Help & Support Settings Help & Support About Us Join Our Community Logout Show More Purpose The Account section strives to show users the details of each and every transaction performed by them in such an organised manner, that it becomes easier for the user to understand exactly what financial situation and cash outflow/inflow position his/her account is currently experiencing

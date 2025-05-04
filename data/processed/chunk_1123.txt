@@ -1,0 +1,18 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_5000_HSA_SOB (2).txt
+Title: Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/pdfs/America's_Choice_5000_HSA_SOB (2).pdf
+Topic: trading
+
+2 of 6   
+[* For more information about limitations and exceptions, see the plan or policy document at www. detegohealth .com   
+ 
+Common  
+Medical Event  Services You May Need   
+Member out of pocket  Limitations, Exceptions, & Other Important Information 
+If you visit a health 
+care provider’s  office 
+or clinic  Primary care visit to treat an 
+injury or illness  Professional Fees:  20% after deductible  Subject to plan allowable  
+Specialist  visit Professional Fees:  20% after deductible  Subject to plan allowable  
+Chiropractic Care  Professional Fees:  20% after deductible  20 visit limitations on Chiropractic Care  
+Preventive care/ screening / 
+immunization  0% coinsurance  You may have to pay for services that aren’t preventive .

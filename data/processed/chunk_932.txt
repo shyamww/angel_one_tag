@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_charges-and-cashbacks_2c77b736.txt
+Title: URL: https://www.angelone.in/support/charges-and-cashbacks
+Topic: account opening
+
+. Persons making investments on the basis of such advice may lose all or a part of their investments along with the fee paid to such unscrupulous persons. Please be cautious about any phone call that you may receive from persons representing to be such investment advisors, or a part of research firm offering advice on securities. Do not make payments through e-mail links, WhatsApp or SMS. Please do not share your personal or financial information with any person without proper verification. Always trade through a registered broker. Issued in public interest by Angel One Limited, having its registered office at 601, 6th Floor, Ackruti Star, Central Road, MIDC, Andheri East, Mumbai - 400093, Telephone: +91 22 4000 3600, Fax: + 91 22 2835 8811

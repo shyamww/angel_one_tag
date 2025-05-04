@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_ipo-ofs_1f9d323f.txt
+Title: URL: https://www.angelone.in/support/ipo-ofs
+Topic: account opening
+
+. Alternatively, you can apply through ASBA with your bank or through physical form. How can I create my UPI ID? You can follow the below steps to create a UPI ID with the BHIM app Download the Google Pay/ PhonePe / BHIM App Verify your mobile number Register the passcode (it is required to open the app) Select your bank from the options available The app will fetch your bank details In case you have more than one account, choose the account you want to register with BHIM Set up a UPI PIN for security Now you can check your UPI ID in the profile section. Why am I unable to apply for IPOs via my UPI ID/Handle? For IPO applications, only UPI ID/Handles approved by NPCI are allowed

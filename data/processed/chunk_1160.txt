@@ -1,0 +1,10 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_5000_Bronze_SOB (2).txt
+Title: Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/pdfs/America's_Choice_5000_Bronze_SOB (2).pdf
+Topic: trading
+
+[Spanish (Español): Para obtener asistencia en Español, llam e al [ 877-585-8480]  
+[Tagalog (Tagalog): Kung kailangan ninyo ang tulong sa Tagalog tumawa g sa [ 877-585-8480]  
+[Chinese (中文): 如果需要中文的帮助，请拨打这个号码[877- 585-8480]  
+[Navajo (Dine): Dinek'ehgo shika at'ohwol ninisingo, kwiijigo holne' [877 -585-8480]  
+ 
+–––––––––––––––––––––– To see examples  of how this plan might cover costs  for a sample medical situation, see the next section .––––––––––– –––––––––––

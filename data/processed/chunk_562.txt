@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_list-of-order-status-on-your-angel-one-trading-account_421269e9.txt
+Title: knowledge-center_trading-account_list-of-order-status-on-your-angel-one-trading-account_421269e9.txt
+Topic: bank account
+
+. And order status tells you the up-to-date situation of the trading order you have placed. Various order statuses on the Angel One platform Each order submitted on the Angel One platform will show a status that might change during the course of trade. The below list shows all possible order statuses on our platform. Executed An order that has been successfully completed at the exchange is said to be executed

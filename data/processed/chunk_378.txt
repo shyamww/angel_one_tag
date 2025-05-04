@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_127afa5f.txt
+Title: URL: https://www.angelone.in/knowledge-center
+Topic: bank account
+
+. Authorised Person A sub-broker is the intermediary between the investor and the stock exchange. The main role of a sub-broker is to assist them and help them gain... Income Tax The tax that is imposed by the government on the earrings of companies and individuals is called income tax. According to the law, the taxpayer... Savings Schemes There are many savings schemes available in India designed to help individuals achieve their financial goals. These schemes include Public Provident Fund... PAN Card A PAN card, or Permanent Account Number card, is a unique 10-character alphanumeric identifier issued by the Income Tax Department in India.... Aadhaar Card Adhaar Card is a government-issued document used to identify any person resident in India

@@ -1,0 +1,37 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_7350_Copper_SOB (1) (1).txt
+Title: America's_Choice_7350_Copper_SOB (1) (1).txt
+Topic: trading
+
+In this example, Joe would pay:  
+Cost Sharing  
+Deductibles  $0 
+Copayments  $100 
+Coinsurance  $0 
+What isn’t covered  
+Limits or exclusions  $0 
+The total Joe would pay is  $100 
+     
+ 
+    
+ The plan’s  overall deductible   $7,
+350  
+ Specialist  [ cost sharing]  $45 
+ Hospital (facility) [cost sharing]  0% 
+ O ther [cost sharing]  0% 
+ 
+This EXAMPLE event includes services like:  
+Emergency room care (including medical 
+supplies)  
+Diagnostic test (x -ray) 
+Durable medical equipment (crutches)  
+Rehabilitation services (physical therapy)  
+ 
+Total Example Cost  $3,500 
+  
+In this example, Mia would pay : 
+Cost Sharing  
+Deductibles  $3,500 
+Copayments  $0 
+Coinsurance  $0 
+What isn’t covered  
+Limits or exclusions  $0

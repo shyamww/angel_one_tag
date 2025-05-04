@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. What should I do? I have placed multiple withdrawal requests. Why was only one request processed at a time? Withdrawal of Funds from Your Angel One Account When can I place a withdrawal request in case of sell transactions? What are the different types of balances that you should look at? Update your bank account details How can I check the status of my withdrawal request? Can I cancel my withdrawal request? Regarding your funds payout rejection and limit updation? Conclusion Show More No matter how much you invest and in what instruments, there comes a time when you want to withdraw funds from your trading account. This process of transferring funds to a registered bank account is known as Funds Payout

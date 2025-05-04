@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_ipo-ofs_1f9d323f.txt
+Title: URL: https://www.angelone.in/support/ipo-ofs
+Topic: account opening
+
+. Please reach out to your bank in case funds are not unblocked or released post the mentioned date. Common reasons why you didn’t get the allotment are Non-Allotment – Allotment is done through lottery system because of over-subscription Rejection – Application can be rejected due to either of the following reasons: 1) Application received from multiple Demat accounts having the same PAN 2) Bank account Demat account, and UPI ID used for an application not mapped to the same PAN 3) Your bid price is lower than the final issue price Tax will be levied on your profit as per your tax bracket. Visit our website https://www.angelone.in/upcoming-IPO to get all information about forthcoming IPO’s. Your UPI mandate request status on the Angel One app does not get updated in real-time

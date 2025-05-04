@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. You can check from the above table when Angel One’s payout cycles are effective. For non-traded users, the processing of the request for funds withdrawal starts within a few minutes of the placement of the request. However, you can still cancel the request if you can send your request for cancellation within that time window. Regarding your funds payout rejection and limit updation? AOL shall endeavour to give the payout rejection effect in ledger within T+1 Working day. Kindly know that trading limits or withdrawable balances in such a case will reflect within T+2 working days only after the payout rejection information is shared by the bank. Conclusion Transferring funds from your trading account to your bank account is hassle-free and convenient with Angel One

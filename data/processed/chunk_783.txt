@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. Now in order to avail this loan facility, the buyers would have to pledge delivery stocks in their possession. The process of adding stocks to be pledged is the following – 1. Go to Account and click on “Pledge stocks” 2. Check the “Margin Pledge” – if it is too low, click increase 3. The list of stocks that can be pledged appears 4. You may increase the quantity of stocks pledged 5. Once you have adequate margin allocated, click “Increase Margin” Figure: The process of adding stocks pledged – Part 1 6. Thereafter you will receive a request for OTP verification 7. Once the OTP is verified, you will reach the CDSL page where you will be able to verify the Margin Pledge transaction

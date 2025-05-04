@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_add-and-withdraw-funds_f5f20784.txt
+Title: URL: https://www.angelone.in/support/add-and-withdraw-funds
+Topic: account opening
+
+. Click on Add Funds . Enter the amount and choose the mode of transfer (Google Pay, PhonePe, other UPI methods, or Net banking). Follow the subsequent steps to authorize your transaction, and the funds will be added to your account. Click here for more details on adding funds. Yes, as per regulatory guidelines and compliance norms, it is mandatory to transfer funds through the bank accounts registered with Angel One. If the amount is debited from the bank but not added to your Angel One balance, it could be due to the following reasons: Unregistered Bank Account : You might have tried to add funds from an unregistered bank account. The debited amount will be credited back to your bank in 3-4 working days. Technical Glitch : There could be a technical glitch at your bank’s end

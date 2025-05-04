@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. This can happen because of the following reasons: • In case of delivery sell transactions, • You can use only 80% of the amount to trade on T day (i.e. the day the transaction was executed), and you can withdraw the same on T+2 day. • You can use the remaining 20% for trading or withdraw it only on T+2 day. • For example – You have a ₹1000 delivery sell transaction on Monday. You can withdraw these on Wednesday. So on Monday and Tuesday, you will see withdrawable balance as zero and unsettled balance as ₹1000. • Funds received from exiting F&O position can be withdrawn on the next working day • For example, suppose you have a ₹1000 F&O sell transaction on Monday. You can withdraw these on Tuesday. So on Monday, you will see withdrawable balance as zero and unsettled balance as ₹1000

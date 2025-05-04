@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_list-of-order-status-on-your-angel-one-trading-account_421269e9.txt
+Title: knowledge-center_trading-account_list-of-order-status-on-your-angel-one-trading-account_421269e9.txt
+Topic: bank account
+
+List of order status on your Angel One trading account 4 mins read by Angel One EN हिंदी తెలుగు ગુજરાતી ಕನ್ನಡ தமிழ் मराठी Share Topics Covered Various order statuses on the Angel One platform How to check your order status on our app? Conclusion The evolution of technology has had a massive impact on every industry, and the stock market is no exception. As a trader or investor today, you can conveniently trade or invest in the market from the comfort of your home. For this, all you have to do is place an order via trading platforms like Angel One , which in turn places an order with the exchange on your behalf. Before we move further, let’s define what order and order status are. Order means an instruction that you give on a trading platform to buy/sell scrips at a particular price

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. Net Banking or UPI (if you have the Google Pay or PhonePe app on your device then you can add funds directly through those apps themselves by clicking on the options seen in the figure titled “How to add funds”) Figure: Reaching the Add Funds page Figure : How to add funds Further steps to be taken as per the mode of transaction have been explained in the following section – Net Banking Transfer Process – 1. After selecting the mode of transfe r as Net banking on the Add funds page, the user will be redirected to the page of the bank whose account he has selected on the Add Funds page. 2. On this page, enter the required details e.g. customer ID and password. 3. Once the transaction is completed, the user will be redirected to the Account page with respective status of transaction (i.e

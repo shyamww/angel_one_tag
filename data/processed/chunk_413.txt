@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_demat-account_track-the-status-of-your-application-on-angel-one-app_2153ea74.txt
+Title: knowledge-center_demat-account_track-the-status-of-your-application-on-angel-one-app_2153ea74.txt
+Topic: account opening
+
+. A delayed account opening process causes unnecessary frustration for the user if they do not clearly understand why their application is not being approved. To minimise this friction, the Angel One app now shows you exactly which stage their application is in. This will give you clarity on the status of your application as well as a fair idea about further requirements from your side. How to View Application Status? When you open the Angel One app on the Home Page you will see an option at the bottom of the screen to view the status of your application. Clicking ‘View Status’ will expand the window and allow you to see the exact stage where your application currently stands

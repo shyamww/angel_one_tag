@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. either success, failed or pending). GPay or PhonePe Transfer Process – After selecting the mode of transfer as Gpay/Phonepe on the Add Funds page, the user will be redirected to the respective UPI Application directly. In case of multiple accounts registered in Gpay/Phonepe, please select the account which you have registered in Angel One , to complete the transaction correctly. Enter the UPI PIN to authorise the transaction. Once you complete the transaction, you will be redirected to the Account page where you check the status of transaction (i.e. either success, failed or pending ). You can check the status of your transaction under the “View Funds Transaction Details” in the Account section of the app

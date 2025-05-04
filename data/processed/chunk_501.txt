@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. For example – You have a ₹1000 delivery sell transaction on Monday. You can withdraw these on Tuesday. So on Monday, you will see withdrawable balance as zero and unsettled balance as ₹1000.. Funds received from exiting F&O positions can be withdrawn on T +1 day (next working day). For example – You have a ₹1000 F&O sell transaction on Monday. You can withdraw these on Tuesday. So on Monday, you will see the withdrawable balance as zero and the unsettled balance as ₹1000. Funds that you have added during the day can be withdrawn on the following day. For example, if you added ₹1000 on Monday, you will still be able to see the withdrawable balance as Zero on Monday. Say you add ₹500 on Tuesday. Your withdrawable balance will be ₹1000 (which you had added earlier that day

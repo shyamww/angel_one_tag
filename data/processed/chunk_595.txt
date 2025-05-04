@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_add-funds-the-digital-way_eae36f16.txt
+Title: URL: https://www.angelone.in/knowledge-center/trading-account/add-funds-the-digital-way
+Topic: bank account
+
+. 2. On this page, enter the required details e.g. customer ID and password. 3. Once the transaction is completed, the user will be redirected to the Angel One app page with respective status of transaction (i.e. either success, failed or pending ). UPI Transfer Process – 1. After selecting the mode of transfer as UPI on the Add Funds page, the user will be asked to enter the UPI ID/ VPA . 2. Enter the UPI ID/ VPA of any UPI application . 3. Click on Proceed . 4. Go to the respective UPI application, the UPI ID/VPA of which you had entered. 5. You will find a payment request from Angel One in the UPI application. 6. Click on Approve to complete the transaction. 7. Enter the UPI PIN to authorise the transaction. 8

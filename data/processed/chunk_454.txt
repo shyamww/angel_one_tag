@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_heres-how-you-can-activate-a-segment-in-angel-one_13226d9b.txt
+Title: knowledge-center_trading-account_heres-how-you-can-activate-a-segment-in-angel-one_13226d9b.txt
+Topic: bank account
+
+. The segment will be activated within 24-48 hours after the documents have been received. Hyderabad Office Address – Osman Plaza, H.No. 6-3-352, Banjara Hills, Road No. 1, Hyderabad, Telangana 500001 How will I get activation confirmation? You will receive a confirmation mail on your registered email ID. How will I come to know if my segment activation request has been rejected? You will receive an email on your registered email ID with the reason for rejection. How can I deactivate the segment? You can deactivate a specific segment by writing to us at support@angelone.in, as we currently do not have an online option to deactivate segments

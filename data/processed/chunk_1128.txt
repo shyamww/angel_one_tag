@@ -1,0 +1,17 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_5000_HSA_SOB (2).txt
+Title: Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/pdfs/America's_Choice_5000_HSA_SOB (2).pdf
+Topic: trading
+
+reduction ($2,500 maximum). Subject to plan allowable.  
+Physician/surgeon fees  Professional Fees:  20% after deductible  Subject to plan allowable  
+If you need mental 
+health, behavioral 
+health and substance 
+abuse services  Outpatient services  Deductible/Coinsurance  Subject to plan allowable  
+Inpatient services  Deductible/Coinsurance  Failure to obtain precertification will result in a 50% benefit 
+reduction ($2,500 maximum). Subject to plan allowable.  
+If you are pregnant  Office visits  Professional Fees:  20% after deductible  Subject to plan allowable  
+Childbirth/delivery professional 
+services Professional Fees:  20% after deductible  Subject to plan allowable  
+Childbirth/delivery facility 
+services Facility:  20% of plan allowable,

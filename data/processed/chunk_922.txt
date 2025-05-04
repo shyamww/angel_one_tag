@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_charges-and-cashbacks_2c77b736.txt
+Title: URL: https://www.angelone.in/support/charges-and-cashbacks
+Topic: account opening
+
+. ही. DP Charges DP Charges Brokerage Charges Stock Pledging Charges SEBI Charges STT (Securities Transaction Tax) Stamp Duty Transaction / Turnover Charges Account Maintenance Charges Auto Square Off Charges Brokerage Cashback Brokerage Plan Call and Trade Charges DP (Depository Participant) Charges GST (Goods & Services Tax) Off-Mkt Transaction Charges Penal/Delayed Payment Charges Pledging Charges What are DP charges at Angel One? Depository Participant (DP) charges are combined charges imposed by CDSL and Angel One on every sell transaction of equity delivery shares. Please note that DP charges are not applicable on intraday trades or delivery buy transactions . The details are as below. Equity delivery : Rs. 20+GST per sale transaction, split as below

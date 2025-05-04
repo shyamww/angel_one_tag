@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_add-funds-the-digital-way_eae36f16.txt
+Title: URL: https://www.angelone.in/knowledge-center/trading-account/add-funds-the-digital-way
+Topic: bank account
+
+. Click on Approve to complete the transaction. 7. Enter the UPI PIN to authorise the transaction. 8. Once the transaction is completed, the user will be redirected to the Angel One App page with respective status of transaction (i.e. either success, failed or pending). GPay or PhonePe Transfer Process – After selecting the mode of transfer as Gpay/Phonepe on the Add Funds page, the user will be redirected to the respective UPI Application directly. 2. In case of multiple accounts registered in Gpay/Phonepe, please select the account which you have registered in Angel One , to complete the transaction correctly. 3. Enter the UPI PIN to authorise the transaction. 4

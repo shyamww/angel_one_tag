@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_diy-processes_how-to-update-bank-account-details_d9c0954c.txt
+Title: URL: https://www.angelone.in/knowledge-center/diy-processes/how-to-update-bank-account-details
+Topic: bank account
+
+. Check if the branch name is correct and click on continue Step 4. Automatic Bank account verification will be tried and you will be redirected to the e-sign page if verification is successful Step 5. In case the verification fails, you will get an option to either upload a cancelled cheque or try another bank Step 6. Upload the canceled cheque and proceed to e-sign Step 7. You will be redirected for esigning the request. Enter the Aadhaar details & OTP sent from Aadhaar on your mobile number Make sure to use your own aadhaar card for e-signing . Step 8. The request will be processed in 2-3 working days. Editing a Bank Account Step 1. Upon clicking “Bank Details,” all linked bank accounts will be displayed. Step 2

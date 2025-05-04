@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_add-funds-the-digital-way_eae36f16.txt
+Title: URL: https://www.angelone.in/knowledge-center/trading-account/add-funds-the-digital-way
+Topic: bank account
+
+. 3. Enter the UPI PIN to authorise the transaction. 4. Once you complete the transaction, you will be redirected to the Angel One App page where you can check the status of transaction (i.e. either success, failed or pending ). You can check the status of your transaction under the “View Funds Transaction Details” in the Account section of the app. There are two sections under this – funds added and funds withdrawn, both of which can be tracked separately through this subsection. We will learn more of this from the later section on View Funds Transaction Details. How to check if the transaction is reflected on the funds in your account? Once a transaction is executed, you may check whether the transaction is reflected in your balance

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_list-of-order-status-on-your-angel-one-trading-account_421269e9.txt
+Title: knowledge-center_trading-account_list-of-order-status-on-your-angel-one-trading-account_421269e9.txt
+Topic: bank account
+
+. 3.Click on Order History. 4.Click on any order to view detailed message for rejections. Note: Only terminal statuses are shown in order history, i.e. only executed, rejected and cancelled. Pending orders are not shown in order history as it has still not reached terminal state It is imperative to understand different order statuses on our platform so that you know when your order gets executed and when you need to re-order. Use our Angel One app or web platform to place your order with ease or track your orders on the move. Join our 3 Cr+ happy customers Open Free Demat Account! Join our 3 Cr+ happy customers Trusted by over 3Cr+ clients, Angel One is one of India’s leading retail full-service broking houses

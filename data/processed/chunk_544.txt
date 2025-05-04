@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. Hence, when your withdrawal request is processed, you will receive ₹900 in your account and not ₹1000. In this case, the loss of ₹100 due to the intraday transaction modified the amount you received. Similarly, if there is any change in the margin requirements or any accrual charges that need payment, you will receive only a partial amount. Your withdrawal request can be rejected for the following reasons: As per the settlement cycle, you can place funds withdrawal requests on the following days. For delivery sell transactions and F&O transactions, funds payout requests can be placed on T+1 day (Next working day). In BTST transactions, withdrawal requests can be placed on T+1 day (The next working day) after the selling transaction is executed

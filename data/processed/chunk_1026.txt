@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_ipo-ofs_1f9d323f.txt
+Title: URL: https://www.angelone.in/support/ipo-ofs
+Topic: account opening
+
+. How can an NRI apply for an IPO using the Angel One app? NRI’s can not apply via the Angel One app. However, they can apply through the physical ASBA (Application Supported By Blocked Amount) process with your bank. What is the cut-off price & why should I apply at a cut-off price? Cut-off price is the price at which the shares get issued through an IPO to the investors. This price is ascertained at the allotment stage. When an investor applies for an IPO at a cut-off price, that means he is ready to bid at this price. In an ideal scenario, all retail investors bid at the cut-off price to increase their chance of allotment. Can I use a bank account not linked with Angel One to apply? You can apply for an IPO using any other bank account provided the account is in the name of the investor

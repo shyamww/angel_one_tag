@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_demat-account_how-to-set-up-ddpi-on-angel-one_a6974e23.txt
+Title: URL: https://www.angelone.in/knowledge-center/demat-account/how-to-set-up-ddpi-on-angel-one
+Topic: bank account
+
+. Once the DDPI is activated, you will receive an email from the CDSL on your registered email ID. Note: The address of Angel One’s Hyderabad office is “Angel One LTD., 2nd Floor, Osman Plazza, Road No.1, Banjara Hills, Hyderabad – 500034.” In case you already have an account, as well as a POA set up already, then you have to also take exactly the same steps mentioned above to activate your DDPI. Once you receive the DDPI activation email from the CDSL, the earlier POA will be discontinued from then onwards. In case you have DDPI already but you want to opt out of it, send an email to kyc.modifications@angelbroking.com from your registered email ID, asking to opt out of the DDPI. Final Words Hope this article gives you clarity on how to activate DDPI and trade hassle-free

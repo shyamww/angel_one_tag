@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. Always trade through a registered broker. Issued in public interest by Angel One Limited, having its registered office at 601, 6th Floor, Ackruti Star, Central Road, MIDC, Andheri East, Mumbai - 400093, Telephone: +91 22 4000 3600, Fax: + 91 22 2835 8811. Disclaimer Investments in securities market are subject to market risk, read all the related documents carefully before investing. We collect, retain, and use your contact information for legitimate business purposes only, to contact you and to provide you information & latest updates regarding our products & services. We do not sell or rent your contact information to third parties. Please note that by submitting the above-mentioned details, you are authorizing us to Call/SMS you even though you may be registered under DND

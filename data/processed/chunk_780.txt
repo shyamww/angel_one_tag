@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_user-manual_account_d1bc16f8.txt
+Title: knowledge-center_user-manual_account_d1bc16f8.txt
+Topic: bank account
+
+. Funds Added Under this section you can check all the fund additions made by you along with the following information – Date and time of the transaction The bank a/c from which the transaction was made The amount involved The status of the transaction – e.g. Pending If you are concerned about transactions related to a particular bank or even a particular amount, then you can directly search for the transaction by entering the bank name or the amount in the search bar. Funds Withdrawn To the right of Funds Added, you will find the section of Funds Withdrawn. It will show the exact same details, just for the list of funds withdrawn

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. I have made a BTST (Buy Today, Sell Tomorrow) trade. When can I place a funds payout request? In BTST transactions, withdrawal requests can be placed on T+1 day (The next working day) after the selling transaction is executed. I have 2 bank accounts. I want to receive funds from my secondary bank account. What should I do? While withdrawing, Angel One gives you the option to select a bank account in which you want to receive the funds. The amount will get credited to the bank account you have chosen. I have placed multiple withdrawal requests. Why was only one request processed at a time? If you place multiple withdrawal requests with different bank accounts within the payout cycle, the system will process only one bank’s withdrawal request at a time

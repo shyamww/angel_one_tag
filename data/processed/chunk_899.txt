@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_angel-one-recommendations_4e9703e3.txt
+Title: URL: https://www.angelone.in/support/angel-one-recommendations
+Topic: account opening
+
+. ही. Advisory and Recommendations Advisory and Recommendations What are recommendations? Recommendations are stocks suggested by Angel One to help you minimize risk and maximize profit. You can see the recommendations by visiting https://www.angelone.in/trade/home You will find the recommendations under “Top Stock Picks via Advisory” section on this screen. What are the charges for recommendations? We don’t charge any fee for recommendations. The usual trading charges will be levied when a user takes a trade. Recommend me some best growing stocks? Angel One provides you recommendations through advisory services. Based on extensive research, we provide portfolio and single stock advisory

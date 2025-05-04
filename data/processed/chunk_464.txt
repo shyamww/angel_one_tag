@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_trading-account_heres-how-you-can-activate-a-segment-in-angel-one_13226d9b.txt
+Title: knowledge-center_trading-account_heres-how-you-can-activate-a-segment-in-angel-one_13226d9b.txt
+Topic: bank account
+
+. Any of the documents from the below mentioned list are accepted as valid income proof: Last 6 months bank account statement It should have at least one transaction from every month Passbook It should have first page and last 6 months of transaction details Salary Slip Last month’s salary slip needs to be provided ITR acknowledgement form It should be from latest/previous financial year Form 16 It should be from latest/previous financial year Demat Account Statement Latest Holdings statement 2. Non-individual accounts (Joint, HUF, Corporate) – Currently there is no online process of segment activation for non-individual accounts

@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. In this case, the loss of ₹100 due to the intraday transaction modified the amount you received. Similarly, if there is any change in the margin requirements or any accrual charges that need payment, you will receive only a partial amount. Why is my funds payout request rejected? Your withdrawal request can be rejected for the following reasons: You have entered a new trade The margin requirement has changed Inadequate balance in your account I have sold the shares from my Demat account. When can I transfer the funds to my bank account? As per the settlement cycle, you can place funds withdrawal requests on the following days. For delivery sell transactions and F&O transactions, funds payout requests can be placed on T+1 day (Next working day)

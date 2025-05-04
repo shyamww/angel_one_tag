@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_add-and-withdraw-funds_f5f20784.txt
+Title: URL: https://www.angelone.in/support/add-and-withdraw-funds
+Topic: account opening
+
+. You cannot add funds from a bank account that belongs to your spouse, friend, or anyone else. You can add funds online to your Angel One account by following these steps: Click here for more details on adding funds. Yes, as per regulatory guidelines and compliance norms, it is mandatory to transfer funds through the bank accounts registered with Angel One. If the amount is debited from the bank but not added to your Angel One balance, it could be due to the following reasons: You cannot add funds to your Angel One account using your debit or credit card. As per the regulatory guidelines, your transactions should be from a verified bank account. Also, the usage of credit cards is not allowed in the stock markets

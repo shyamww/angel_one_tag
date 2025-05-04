@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_add-and-withdraw-funds_f5f20784.txt
+Title: URL: https://www.angelone.in/support/add-and-withdraw-funds
+Topic: account opening
+
+. Why am I unable to add funds to my Angel One account? You might be unable to add funds to your Angel One account due to the following reasons: Unregistered Bank Account : You might be trying to add funds from a bank account not registered with your Angel One account. Incorrect UPI ID : The UPI ID used for fund addition might not be mapped to the bank account registered with Angel One. Ensure you add funds from your bank account registered with Angel One. Why am I unable to add funds using UPI? You might be unable to add funds via UPI due to the following reasons: Bank Account Mismatch : The bank account linked with Angel One is different from the one selected in the UPI app. Unregistered UPI ID : Your UPI ID is mapped to a bank account that is not registered with Angel One

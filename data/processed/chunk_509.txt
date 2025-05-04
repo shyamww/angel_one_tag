@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/knowledge-center_intraday-trading_funds-payout-explained_8842aa45.txt
+Title: URL: https://www.angelone.in/knowledge-center/intraday-trading/funds-payout-explained
+Topic: bank account
+
+. Before making funds withdrawal requests, you must check the “Withdrawable Balance” in your account. You should also know that the “Withdrawable Balance” may be less than the “Funds” available as a portion may be withheld against Margin requirements Brokerage charges Other statutory charges, etc. The funds payout process with Angel One is entirely digital and straightforward. Follow the below steps to withdraw funds. Go to the ‘Account’ section after logging in Click the ‘Withdraw’ button Enter the amount you want to withdraw from the withdrawable balance and click the bank to which you want the money to be withdrawn

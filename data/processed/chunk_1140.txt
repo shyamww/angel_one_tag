@@ -1,0 +1,15 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/America's_Choice_5000_HSA_SOB (2).txt
+Title: Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/pdfs/America's_Choice_5000_HSA_SOB (2).pdf
+Topic: trading
+
+Copayments  $0 
+Coinsurance  $0 
+What isn’t covered  
+Limits or exclusions  $0 
+The total Mia would pay is  $3,500 About these Coverage Examples:  
+ 
+ 
+ This is not a cost estimator. Treatments shown are just examples of how this plan m ight cover medical care. Your actual costs will be 
+different depending on the actual care you receive, the prices your providers  c harge, and many other factors. Focus on the cost sharing 
+amounts ( deductibles , c opayments  and coinsurance) and excluded services  under the plan. Use this information to compare the portion of 
+costs you might pay under different health plans . P lease note these coverage examples are based on self -only coverage.

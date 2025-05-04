@@ -1,0 +1,5 @@
+Source: /Users/w/Desktop/RAG/angel_one_rag/data/raw/support_ipo-ofs_1f9d323f.txt
+Title: URL: https://www.angelone.in/support/ipo-ofs
+Topic: account opening
+
+. Once the shares are allotted to you, the amount will be debited from your bank account. If the shares are not allotted to you, the amount will be unblocked/released to your account on/before the UPI mandate expiry date. Note: Banks usually take 10-15 days to release your funds. If your funds are still blocked after 15 days please contact your bank . Can I modify my IPO bid? Yes, you can modify the lot size and UPI ID of your IPO bid after placing an order. Please note that if you have approved your UPI mandate request for the order and modified the order later, the entire IPO bid amount will be blocked in addition to the amount blocked for your original IPO bid. You will also receive another UPI mandate request for your modified bid
