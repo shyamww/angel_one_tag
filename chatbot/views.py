@@ -132,6 +132,22 @@ def build_index(request):
         return JsonResponse({'error': 'Method not allowed'}, status=405)
 
     try:
+        # Check if vector store already exists
+        vector_store_path = os.path.join(DATA_DIR, 'vector_store', 'index.faiss')
+        chunks_path = os.path.join(DATA_DIR, 'vector_store', 'chunks.json')
+
+        if os.path.exists(vector_store_path) and os.path.exists(chunks_path):
+            # Load the existing chunks to count them
+            with open(chunks_path, 'r', encoding='utf-8') as f:
+                chunks = json.load(f)
+
+            return JsonResponse({
+                'success': True,
+                'message': f'Using existing knowledge base with {len(chunks)} document chunks',
+                'chunks_count': len(chunks)
+            })
+
+        # If vector store doesn't exist, build it
         # Initialize document processor
         doc_processor = DocumentProcessor(
             base_url=ANGEL_ONE_URL,
