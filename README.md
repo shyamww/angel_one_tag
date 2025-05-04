@@ -1,4 +1,4 @@
-# Angel One RAG Chatbot - Setup and Usage Documentation
+# Angel One RAG Chatbot - Setup and Usage Documentation (Note: Deployed Demo May Show 502 Errors  because free version- See Deployment Section)
 
 ## Overview
 
