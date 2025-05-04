@@ -9,6 +9,8 @@ from django.conf import settings
 from .document_processor import DocumentProcessor
 from .rag_engine import RAGEngine
 from .models import ChatSession, ChatMessage
+from .rag_engine_light import SimpleRAGEngine
+
 
 # Initialize document processor and RAG engine
 DATA_DIR = os.path.join(settings.BASE_DIR, 'data')
@@ -99,11 +101,12 @@ def ask(request):
         # Initialize RAG engine - will automatically check if OpenAI key is valid
         import os
         openai_api_key = os.getenv('OPENAI_API_KEY')
-        rag_engine = RAGEngine(
-            data_dir=DATA_DIR,
-            use_openai=True,  # Try to use OpenAI if key is available
-            openai_api_key=openai_api_key
-        )
+        # rag_engine = RAGEngine(
+        #     data_dir=DATA_DIR,
+        #     use_openai=True,  # Try to use OpenAI if key is available
+        #     openai_api_key=openai_api_key
+        # )
+        rag_engine = SimpleRAGEngine(data_dir=DATA_DIR)
 
         # Get answer
         result = rag_engine.query(question)
@@ -127,17 +130,16 @@ def ask(request):
 
 @csrf_exempt
 def build_index(request):
-    """Build the vector index from the provided data sources."""
+    """Check if index exists."""
     if request.method != 'POST':
         return JsonResponse({'error': 'Method not allowed'}, status=405)
 
     try:
-        # Check if vector store already exists
-        vector_store_path = os.path.join(DATA_DIR, 'vector_store', 'index.faiss')
+        # Check if chunks file exists
         chunks_path = os.path.join(DATA_DIR, 'vector_store', 'chunks.json')
 
-        if os.path.exists(vector_store_path) and os.path.exists(chunks_path):
-            # Load the existing chunks to count them
+        if os.path.exists(chunks_path):
+            # Load existing chunks to count them
             with open(chunks_path, 'r', encoding='utf-8') as f:
                 chunks = json.load(f)
 
@@ -146,28 +148,11 @@ def build_index(request):
                 'message': f'Using existing knowledge base with {len(chunks)} document chunks',
                 'chunks_count': len(chunks)
             })
-
-        # If vector store doesn't exist, build it
-        # Initialize document processor
-        doc_processor = DocumentProcessor(
-            base_url=ANGEL_ONE_URL,
-            content_selectors=CONTENT_SELECTORS,
-            data_dir=DATA_DIR,
-            blacklist_urls=BLACKLIST_URLS
-        )
-
-        # Process all documents
-        chunks = doc_processor.process_all()
-
-        # Initialize RAG engine and build vector store
-        rag_engine = RAGEngine(data_dir=DATA_DIR)
-        rag_engine.build_vector_store(chunks)
-
-        return JsonResponse({
-            'success': True,
-            'message': f'Successfully processed {len(chunks)} document chunks',
-            'chunks_count': len(chunks)
-        })
+        else:
+            return JsonResponse({
+                'success': False,
+                'error': 'Knowledge base not found. Please build locally and push to repository.'
+            }, status=404)
 
     except Exception as e:
         return JsonResponse({
